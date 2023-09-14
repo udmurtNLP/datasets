@@ -1,0 +1,7307 @@
+Эгра Эгра_(черкогурт) Эгра_(черкогурт) GPE 0.996523712063 Igra B-LOC
+( None I-LOC
+черкогурт None I-LOC
+) None I-LOC
+
+перенаправление None O
+Ильминский Ильминский,_Николай_Иванович Ильминский,_Николай_Иванович PER 0.994219790841 Nikolay_Ilminsky B-PER
+, None I-PER
+Николай None I-PER
+Иванович None I-PER
+
+Вордӥськемын None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+, None O
+шор None O
+ёзо None O
+школаез None O
+йылпумъяса None O
+, None O
+дышетскыны None O
+пыриз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетысь ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетысь None I-ORG
+историяя None O
+факультетэ None O
+. None O
+
+Бадӟым None O
+саклык None O
+висъя None O
+Ижлэн None O
+но None O
+Удмуртилэн Удмуртия Удмуртилэн GPE 0.999999994295 Udmurtia B-LOC
+историзылы None O
+. None O
+
+перенаправление None O
+Короленко Короленко,_Владимир_Галактионович Короленко,_Владимир_Галактионович PER 0.999989196588 Vladimir_Korolenko B-PER
+, None I-PER
+Владимир None I-PER
+Галактионович None I-PER
+
+перенаправление None O
+Удмурт Удмурт_дунне_(газет) Удмурт_дунне_(газет) ORG 1.0 Udmurt_dunne B-ORG
+дунне None I-ORG
+( None I-ORG
+газет None I-ORG
+) None I-ORG
+
+перенаправление None O
+Калашников Калашников,_Михаил_Тимофеевич Калашников,_Михаил_Тимофеевич PER 0.999999999878 Mikhail_Kalashnikov B-PER
+, None I-PER
+Михаил None I-PER
+Тимофеевич None I-PER
+
+перенаправление None O
+Кулакова Кулакова,_Галина_Алексеевна Кулакова,_Галина_Алексеевна PER 0.999997953138 Galina_Kulakova B-PER
+, None I-PER
+Галина None I-PER
+Алексеевна None I-PER
+
+Бӧрысь None O
+ужаз None O
+Алнаш Алнаш_ёрос Алнаш_ёросысь GPE 0.99999999929 Alnashsky_District B-LOC
+ёросысь None I-LOC
+школаын None O
+. None O
+
+1964-тӥ-1969-тӥ None O
+аръёсы None O
+дышетске None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетысь ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетысь None I-ORG
+художественно-графической None O
+факультетын None O
+. None O
+
+' None O
+'' None O
+Таншоннят None O
+( None O
+аэропорт None O
+) None O
+' None O
+'' None O
+( None O
+''Sân None O
+bay None O
+quốc None O
+tế None O
+Tân None O
+Sơn None O
+Nhât None O
+'' None O
+) None O
+, None O
+Вьетнамысь Вьетнам Вьетнамысь GPE 0.999988951935 Vietnam B-LOC
+аэропорт None O
+, None O
+Хошимин Хошимин Хошимин GPE 1.0 Ho_Chi_Minh_City B-LOC
+карлэсь None O
+5 None O
+иськемын None O
+, None O
+музъемезлэн None O
+быдӟалаез None O
+– None O
+8.50 None O
+км² None O
+. None O
+
+перенаправление None O
+Эгра Эгра_(черкогурт) Эгра_(черкогурт) GPE 0.996523712063 Igra B-LOC
+( None I-LOC
+черкогурт None I-LOC
+) None I-LOC
+
+' None O
+'' None O
+Вувылчабак Вувылчабак Вувылчабак GPE 0.679699169051 Common_bleak B-LOC
+'' None O
+' None O
+( None O
+''Alburnus None O
+alburnus None O
+'' None O
+) None O
+
+' None O
+'' None O
+Куарчабак Куарчабак Куарчабак GPE 0.679699169051 Leucaspius_delineatus B-LOC
+'' None O
+' None O
+( None O
+''Leucaspius None O
+delineatus None O
+'' None O
+) None O
+
+Канадаысь Канадаысь_балян Канадаысь_балян GPE 0.679699169051 Canada_lynx B-LOC
+балян None I-LOC
+( None O
+''Lynx None O
+canadensis None O
+'' None O
+) None O
+
+Удмурт Удмуртия Удмурт_шаерын GPE 0.999999994295 Udmurtia B-LOC
+шаерын None I-LOC
+- None O
+19 None O
+. None O
+
+Пещерной Пещерной_арыслан Пещерной_арыслан GPE 0.679699169051 Panthera_leo_spelaea B-LOC
+арыслан None I-LOC
+( None O
+''Panthera None O
+leo None O
+spelaea None O
+'' None O
+) None O
+
+Америкаысь Америкаысь_арыслан Америкаысь_арыслан GPE 0.679699169051 American_lion B-LOC
+арыслан None I-LOC
+( None O
+''Panthera None O
+leo None O
+atrox None O
+'' None O
+) None O
+
+Йожеф Йожеф,_Аттила Йожеф,_Аттила PER 0.999105238326 Attila_József B-PER
+, None I-PER
+Аттила None I-PER
+
+Пичи Пичи_Пурга_ёрос Пичи_Пурга_ёрос GPE 0.99999999929 Malopurginsky_District B-LOC
+Пурга None I-LOC
+ёрос None I-LOC
+
+Сое None O
+сурано None O
+ӧвӧл None O
+матын None O
+сылӥсь None O
+( None O
+ог None O
+9 None O
+иськем None O
+) None O
+Можга Можга Можга GPE 1.0 Mozhga B-LOC
+карен None O
+. None O
+
+Солэн None O
+вань None O
+улонэз None O
+герӟаськемын None O
+Можгаен Можга Можгаен GPE 1.0 Mozhga B-LOC
+но None O
+Ижен Иж Ижен GPE 0.999999579292 Izhevsk B-LOC
+. None O
+
+** None O
+' None O
+'' None O
+Сьӧд Сьӧд_тополь Сьӧд_тополь GPE 0.679699169051 Populus_nigra B-LOC
+тополь None I-LOC
+'' None O
+' None O
+( None O
+''Populus None O
+nigra None O
+'' None O
+) None O
+
+** None O
+' None O
+'' None O
+Евфратысь Евфратысь_тополь Евфратысь_тополь GPE 0.679699169051 Populus_euphratica B-LOC
+тополь None I-LOC
+'' None O
+' None O
+( None O
+''Populus None O
+euphratica None O
+'' None O
+) None O
+
+Булгаков Булгаков,_Михаил_Афанасьевич Булгаков,_Михаил_Афанасьевич PER 0.999997529799 Mikhail_Bulgakov B-PER
+, None I-PER
+Михаил None I-PER
+Афанасьевич None I-PER
+
+Дышетскиз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетын ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетын None I-ORG
+, None O
+истори None O
+факультетын None O
+. None O
+
+Аристе Аристе,_Пауль_Александрович Аристе,_Пауль_Александрович PER 0.999613984486 Paul_Ariste B-PER
+, None I-PER
+Пауль None I-PER
+Александрович None I-PER
+
+Россиысь Россия Россиысь GPE 0.999995518192 Russia B-LOC
+сӥё-дано None O
+суредась None O
+, None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+калык None O
+суредась None O
+. None O
+
+Дышетскиз None O
+Бигиней None O
+черкогуртысь None O
+шор-ёзо None O
+школаын None O
+, None O
+собере None O
+– None O
+Удмуртиысь Удмурт_кун_университет Удмуртиысь_педагоги_институтысь ORG 0.999792186683 Udmurt_State_University B-ORG
+педагоги None I-ORG
+институтысь None I-ORG
+суредан-графика None O
+факультетын None O
+. None O
+
+Студие None O
+ветлӥсьёс None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+радъям None O
+кöня None O
+ке None O
+адӟытонъёссы None O
+но None O
+пыриськылӥзы None O
+ни None O
+. None O
+
+«Этник-радиолэн» None O
+сайтаз None O
+дунтэк None O
+но None O
+уй-нуналлы None O
+быдэ None O
+24 None O
+час None O
+ӵоже None O
+Россын Россия Россын GPE 0.999995518192 Russia B-LOC
+улӥсь None O
+куд-ог None O
+калыкъёслэсь None O
+кырӟанъёссэс None O
+но None O
+крезьгурзэс None O
+кылзыны None O
+луэ None O
+. None O
+
+Дышетскиз None O
+Тартуысь Тартуысь_университет Тартуысь_университетын ORG 0.999999996953 University_of_Tartu B-ORG
+университетын None I-ORG
+, None O
+философияя None O
+факультетын None O
+. None O
+
+Ӵем None O
+печатлаське None O
+Москваысь Муско Москваысь GPE 0.999999999998 Moscow B-LOC
+валтӥсь None O
+газетъёсын None O
+но None O
+журналъёсын None O
+. None O
+
+Дышетскиз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетын ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетын None I-ORG
+. None O
+
+1964-тӥ None O
+арын None O
+Валей None O
+Кельмаков None O
+йылпумъяз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетысь ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетысь None I-ORG
+( None O
+соку None O
+УГПИ None O
+) None O
+филология None O
+факультетэз None O
+. None O
+
+' None O
+'' None O
+Ме́де None O
+'' None O
+' None O
+( None O
+megye None O
+) None O
+– None O
+Венгриысь Венгрия Венгриысь GPE 0.999993411483 Hungary B-LOC
+административно-территориальной None O
+люкетъёслэн None O
+( None O
+улосъёслэн None O
+) None O
+огъя None O
+нимзы None O
+. None O
+
+Ӧжыт None O
+улыса None O
+, None O
+отрядэныз None O
+Вяткае Киров Вяткае GPE 0.997303668278 Kirov,_Kirov_Oblast B-LOC
+лыктэ None O
+. None O
+
+17 None O
+арес None O
+луыса None O
+Поль None O
+люка None O
+аслэсьтыз None O
+нырысетӥ None O
+орекстрзэ None O
+но None O
+та None O
+эшъёсыныз None O
+ӵош None O
+отӥ-татӥ None O
+ветлэ None O
+Франциетӥ Франция Франциетӥ GPE 0.999997637559 France B-LOC
+. None O
+
+Напольских Напольских,_Владимир_Владимирович Напольских_В._В. PER 0.999999138646 Vladimir_Napolskikh B-PER
+В. None I-PER
+В None I-PER
+. None I-PER
+'' None O
+«Бисермины» None O
+/ None O
+/ None O
+О None O
+бесермянах None O
+. None O
+
+' None O
+'' None O
+Америкаысь Америкаысь_чайы Америкаысь_чайы GPE 0.679699169051 American_mink B-LOC
+чайы None I-LOC
+'' None O
+' None O
+( None O
+''Neovison None O
+vison None O
+'' None O
+яке None O
+''Mustela None O
+vison None O
+'' None O
+) None O
+
+' None O
+'' None O
+«Э́хо None O
+Москвы́» None O
+'' None O
+' None O
+( None O
+«Мусколэн None O
+чузъяськись None O
+куараез» None O
+) None O
+— None O
+Россилэн Россия Россилэн GPE 0.999995518192 Russia B-LOC
+радиостанциоысыз None O
+пӧлысь None O
+одӥгез None O
+тодмоез None O
+. None O
+
+Куд-ог None O
+аналитикъёслэн None O
+малмапъёссыя None O
+, None O
+«Эхоез» None O
+кылзэ None O
+ог None O
+600 None O
+сюрс None O
+адями None O
+Мускоын Муско Мускоын GPE 0.999999999998 Moscow B-LOC
+но None O
+ог None O
+1.5 None O
+млн None O
+. None O
+
+Муско Муско Муско GPE 0.999999999998 Moscow B-LOC
+но None O
+Муско Муско_улос Муско_улос GPE 0.999999994158 Moscow_Oblast B-LOC
+улос None I-LOC
+— None O
+73,82 None O
+МГц None O
+УКВ None O
+, None O
+91,2 None O
+МГц None O
+FM None O
+. None O
+
+Абакан Абакан Абакан GPE 1.0 Abakan B-LOC
+— None O
+104,2 None O
+МГц None O
+, None O
+71,06 None O
+МГц None O
+. None O
+
+Барнаул Барнаул Барнаул GPE 0.759450721593 Barnaul B-LOC
+— None O
+69,11 None O
+МГц None O
+. None O
+
+Екатеринбург Екатеринбург Екатеринбург GPE 0.999999999952 Yekaterinburg B-LOC
+— None O
+91,4 None O
+МГц None O
+, None O
+67,46 None O
+МГц None O
+. None O
+
+Иркутск Иркутск Иркутск GPE 0.999242521386 Irkutsk B-LOC
+— None O
+69,5 None O
+МГц None O
+
+Кузон Кузон Кузон GPE 0.999997312841 Kazan B-LOC
+— None O
+105,8 None O
+МГц None O
+
+Красноярск Красноярск Красноярск GPE 0.759450721593 Krasnoyarsk B-LOC
+— None O
+106,6 None O
+КГц None O
+
+Нижний Нижний_Новгород Нижний_Новгород GPE 0.999999765254 Nizhny_Novgorod B-LOC
+Новгород None I-LOC
+— None O
+107,4МГц None O
+
+Оренбург Оренбург Оренбург GPE 0.760408414528 Orenburg B-LOC
+— None O
+101,3 None O
+МГц None O
+
+Омск Омск Омск GPE 0.999242521386 Omsk B-LOC
+— None O
+70,55 None O
+МГц None O
+, None O
+105,0 None O
+Мгц None O
+
+Пермь Пермь Пермь GPE 0.761937149282 Perm B-LOC
+— None O
+91,2 None O
+МГц None O
+
+Рига Рига Рига GPE 1.0 Riga B-LOC
+— None O
+102,7 None O
+МГц None O
+
+Ростов-на-Дону Ростов-на-Дону Ростов-на-Дону GPE 0.999999987067 Rostov-on-Don B-LOC
+— None O
+69,44 None O
+МГц None O
+
+Самара Самара Самара GPE 0.759450721593 Samara,_Russia B-LOC
+— None O
+99,1 None O
+МГц None O
+
+Санкт-Петербург Санкт-Петербург Санкт-Петербург GPE 0.999999999992 Saint_Petersburg B-LOC
+— None O
+91,5 None O
+МГц None O
+
+Ухта Ухта Ухта GPE 1.0 Ukhta B-LOC
+— None O
+105,0 None O
+МГц None O
+
+Уфа Уфа Уфа GPE 0.759450721593 Ufa B-LOC
+— None O
+91,10 None O
+МГц None O
+
+Челябинск Челябинск Челябинск GPE 0.759450721593 Chelyabinsk B-LOC
+— None O
+70,70 None O
+МГц None O
+, None O
+99,5 None O
+МГц None O
+
+** None O
+''Tremarctos None O
+floridanus None O
+'' None O
+† None O
+– None O
+' None O
+'' None O
+Флоридаысь Флоридаысь_пещерной_гондыр Флоридаысь_пещерной_гондыр GPE 0.679699169051 Tremarctos_floridanus B-LOC
+пещерной None I-LOC
+гондыр None I-LOC
+'' None O
+' None O
+
+** None O
+''Ursus None O
+arctos None O
+'' None O
+– None O
+' None O
+'' None O
+Курень Курень_гондыр Курень_гондыр GPE 0.679699169051 Brown_bear B-LOC
+гондыр None I-LOC
+'' None O
+' None O
+
+** None O
+''Ursus None O
+thibetanus None O
+'' None O
+– None O
+' None O
+'' None O
+Азиысь Азиысь_сьӧд_гондыр Азиысь_сьӧд_гондыр GPE 0.679699169051 Asian_black_bear B-LOC
+сьӧд None I-LOC
+гондыр None I-LOC
+'' None O
+' None O
+
+** None O
+''Helarctos None O
+malayanus None O
+'' None O
+– None O
+' None O
+'' None O
+Малайя Малайя_гондыр Малайя_гондыр GPE 0.679699169051 Sun_bear B-LOC
+гондыр None I-LOC
+'' None O
+' None O
+
+Завьял Завьял_ёрос Завьял_/_Дэри_ёрос GPE 0.99999999929 Zavyalovsky_District,_Udmurt_Republic B-LOC
+/ None I-LOC
+Дэри None I-LOC
+ёрос None I-LOC
+
+Тӧдьы Тӧдьы_бурдо_пислэг Тӧдьы_бурдо_пислэг GPE 0.679699169051 White-naped_tit B-LOC
+бурдо None I-LOC
+пислэг None I-LOC
+( None O
+''Parus None O
+nuchalis None O
+'' None O
+) None O
+
+Король Король_пислэг Король_пислэг GPE 0.679699169051 Himalayan_black-lored_tit B-LOC
+пислэг None I-LOC
+( None O
+''Parus None O
+xanthogenys None O
+'' None O
+) None O
+
+Азорысь Азорысь_шушы Азорысь_шушы GPE 0.679699169051 Azores_bullfinch B-LOC
+шушы None I-LOC
+( None O
+''Pyrrhula None O
+murina None O
+'' None O
+) None O
+
+' None O
+'' None O
+Америкаысь Америкаысь_сутэр Америкаысь_сутэр GPE 0.679699169051 Ribes_americanum B-LOC
+сутэр None I-LOC
+'' None O
+' None O
+( None O
+''Ribes None O
+americanum None O
+'' None O
+) None O
+
+Ататюрк Ататюрк,_Мустафа_Кемаль Ататюрк,_Мустафа_Кемаль PER 0.999984915956 Mustafa_Kemal_Atatürk B-PER
+, None I-PER
+Мустафа None I-PER
+Кемаль None I-PER
+
+Сьӧд Сьӧд_кикы Сьӧд_кикы GPE 0.679699169051 Black_cuckoo B-LOC
+кикы None I-LOC
+( None O
+''Cuculus None O
+clamosus None O
+'' None O
+) None O
+
+Сьӧд Сьӧд_ныро_кикы Сьӧд_ныро_кикы GPE 0.679699169051 Black-billed_cuckoo B-LOC
+ныро None I-LOC
+кикы None I-LOC
+( None O
+''Coccyzus None O
+erythropthalmus None O
+'' None O
+) None O
+
+Гюль Гюль,_Абдулла Гюль,_Абдулла PER 0.999999999914 Abdullah_Gül B-PER
+, None I-PER
+Абдулла None I-PER
+
+Баяр Баяр,_Махмуд_Джеляль Баяр,_Махмуд_Джеляль PER 0.999999999763 Celâl_Bayar B-PER
+, None I-PER
+Махмуд None I-PER
+Джеляль None I-PER
+
+Инёню Инёню,_Исмет Инёню,_Исмет PER 0.999999999994 İsmet_İnönü B-PER
+, None I-PER
+Исмет None I-PER
+
+Корутюрк Корутюрк,_Фахри Корутюрк,_Фахри PER 0.999562253946 Fahri_Korutürk B-PER
+, None I-PER
+Фахри None I-PER
+
+Сунай Сунай,_Джевдет Сунай,_Джевдет PER 0.999860086328 Cevdet_Sunay B-PER
+, None I-PER
+Джевдет None I-PER
+
+Гюрсель Гюрсель,_Джемаль Гюрсель,_Джемаль PER 0.999999998971 Cemal_Gürsel B-PER
+, None I-PER
+Джемаль None I-PER
+
+Эврен Эврен,_Кенан Эврен,_Кенан PER 0.999999999999 Kenan_Evren B-PER
+, None I-PER
+Кенан None I-PER
+
+Озал Озал,_Тургут Озал,_Тургут PER 0.999999999949 Turgut_Özal B-PER
+, None I-PER
+Тургут None I-PER
+
+Демирель Демирель,_Сулейман Демирель,_Сулейман PER 0.999999999998 Süleyman_Demirel B-PER
+, None I-PER
+Сулейман None I-PER
+
+Сезер Сезер,_Ахмет_Недждет Сезер,_Ахмет_Недждет PER 0.99950184857 Ahmet_Necdet_Sezer B-PER
+, None I-PER
+Ахмет None I-PER
+Недждет None I-PER
+
+Сьӧд Сьӧд_пӧськы Сьӧд_пӧськы GPE 0.679699169051 Common_swift B-LOC
+пӧськы None I-LOC
+( None O
+''Apus None O
+apus None O
+'' None O
+) None O
+
+Сезер Сезер,_Ахмет_Недждет Сезер,_Ахмет_Недждет PER 0.99950184857 Ahmet_Necdet_Sezer B-PER
+, None I-PER
+Ахмет None I-PER
+Недждет None I-PER
+
+Кагаме Кагаме,_Поль Кагаме,_Поль PER 0.999999999545 Paul_Kagame B-PER
+, None I-PER
+Поль None I-PER
+
+Япониысь Япониысь_вож_сизь Япониысь_вож_сизь GPE 0.679699169051 Japanese_green_woodpecker B-LOC
+вож None I-LOC
+сизь None I-LOC
+( None O
+''Picus None O
+awokera None O
+'' None O
+) None O
+
+Сьӧд Сьӧд_йыро_сизь Сьӧд_йыро_сизь GPE 0.679699169051 Black-headed_woodpecker B-LOC
+йыро None I-LOC
+сизь None I-LOC
+( None O
+''Picus None O
+erythropygius None O
+'' None O
+) None O
+
+Сириысь Сириысь_сизь Сириысь_сизь GPE 0.679699169051 Syrian_woodpecker B-LOC
+сизь None I-LOC
+( None O
+''Dendrocopos None O
+syriacus None O
+'' None O
+) None O
+
+Сулавесиысь Сулавесиысь_сизь Сулавесиысь_сизь GPE 0.679699169051 Sulawesi_pygmy_woodpecker B-LOC
+сизь None I-LOC
+( None O
+''Dendrocopos None O
+temminckii None O
+'' None O
+) None O
+
+Сьӧд Сьӧд_сизь Сьӧд_сизь GPE 0.679699169051 Black_woodpecker B-LOC
+сизь None I-LOC
+( None O
+''Dryocopus None O
+martius None O
+'' None O
+) None O
+
+Зарни Зарни_сизь Зарни_сизь GPE 0.679699169051 Northern_flicker B-LOC
+сизь None I-LOC
+( None O
+''Colaptes None O
+auratus None O
+'' None O
+) None O
+
+Бадӟым Бадӟым_куӵо_сизь Бадӟым_куӵо_сизь GPE 0.679699169051 Great_spotted_woodpecker B-LOC
+куӵо None I-LOC
+сизь None I-LOC
+
+Таёжной Таёжной_лемтэй Таёжной_лемтэй GPE 0.679699169051 Ixodes_persulcatus B-LOC
+лемтэй None I-LOC
+( None O
+''Ixodes None O
+persulcatus None O
+'' None O
+) None O
+
+Пуны Пуны_лемтэй Пуны_лемтэй GPE 0.679699169051 Ixodes_ricinus B-LOC
+лемтэй None I-LOC
+( None O
+''Ixodes None O
+ricinus None O
+'' None O
+) None O
+
+Горд Горд_йыро_сизь Горд_йыро_сизь GPE 0.679699169051 Lesser_spotted_woodpecker B-LOC
+йыро None I-LOC
+сизь None I-LOC
+
+Андысь Андысь_фламинго Андысь_фламинго GPE 0.679699169051 Andean_flamingo B-LOC
+фламинго None I-LOC
+( None O
+''Phoenicopterus None O
+andinus None O
+'' None O
+) None O
+
+Горд Горд_фламинго Горд_фламинго GPE 0.679699169051 American_flamingo B-LOC
+фламинго None I-LOC
+( None O
+''Phoenicopterus None O
+ruber None O
+'' None O
+) None O
+
+Горд Горд_йыро_сизь Горд_йыро_сизь GPE 0.679699169051 Lesser_spotted_woodpecker B-LOC
+йыро None I-LOC
+сизь None I-LOC
+
+Япониысь Япониысь_вож_сизь Япониысь_вож_сизь GPE 0.679699169051 Japanese_green_woodpecker B-LOC
+вож None I-LOC
+сизь None I-LOC
+
+Сьӧд Сьӧд_йыро_сизь Сьӧд_йыро_сизь GPE 0.679699169051 Black-headed_woodpecker B-LOC
+йыро None I-LOC
+сизь None I-LOC
+
+Америкаысь Америкаысь_король_сизь Америкаысь_король_сизь GPE 0.679699169051 Imperial_woodpecker B-LOC
+король None I-LOC
+сизь None I-LOC
+
+** None O
+''Aquila None O
+nipalensis None O
+'' None O
+– None O
+Кыр Кыр_ӧрӟи Кыр_ӧрӟи GPE 0.679699169051 Steppe_eagle B-LOC
+ӧрӟи None I-LOC
+
+** None O
+''Haliaeetus None O
+albicilla None O
+'' None O
+– None O
+Тӧдьы Тӧдьы_быжо_ӧрӟи Тӧдьы_быжо_ӧрӟи GPE 0.679699169051 White-tailed_eagle B-LOC
+быжо None I-LOC
+ӧрӟи None I-LOC
+
+** None O
+''Haliaeetus None O
+leucoryphus None O
+'' None O
+– None O
+Кузь Кузь_быжо_ӧрӟи Кузь_быжо_ӧрӟи GPE 0.679699169051 Pallas's_fish_eagle B-LOC
+быжо None I-LOC
+ӧрӟи None I-LOC
+
+Тӧдьы Тӧдьы_йыро_ӧрӟи Тӧдьы_йыро_ӧрӟи ORG 0.862717356619 Bald_eagle B-ORG
+йыро None I-ORG
+ӧрӟи None I-ORG
+
+Тӧдьы Тӧдьы_йыро_ӧрӟи Тӧдьы_йыро_ӧрӟи ORG 0.862717356619 Bald_eagle B-ORG
+йыро None I-ORG
+ӧрӟи None I-ORG
+
+Кузь Кузь_быжо_ӧрӟи Кузь_быжо_ӧрӟи GPE 0.679699169051 Pallas's_fish_eagle B-LOC
+быжо None I-LOC
+ӧрӟи None I-LOC
+
+Тӧдьы Тӧдьы_бурдо_пислэг Тӧдьы_бурдо_пислэг GPE 0.679699169051 White-naped_tit B-LOC
+бурдо None I-LOC
+пислэг None I-LOC
+
+Удмурт Удмурт_кун_университет Удмурт_кун_университет ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университет None I-ORG
+; None O
+
+М. Калашников,_Михаил_Тимофеевич М._Т._Калашников PER 0.999999999878 Mikhail_Kalashnikov B-PER
+Т. None I-PER
+Калашников None I-PER
+, None O
+
+Г. Кулакова,_Галина_Алексеевна Г._А._Кулакова PER 0.999997953138 Galina_Kulakova B-PER
+А. None I-PER
+Кулакова None I-PER
+, None O
+
+** None O
+Арлан Арлан Арлан GPE 0.679699169051 European_hamster B-LOC
+( None O
+''Cricetus None O
+cricetus None O
+'' None O
+) None O
+
+Топи Топи_(пöйшур) Топи_(пöйшур) GPE 0.679699169051 Common_tsessebe B-LOC
+( None I-LOC
+пöйшур None I-LOC
+) None I-LOC
+
+Сьӧд Сьӧд_юсь Сьӧд_юсь GPE 0.679699169051 Black_swan B-LOC
+юсь None I-LOC
+( None O
+''Cygnus None O
+atratus None O
+'' None O
+) None O
+
+Горд Горд_кымесо_газель Горд_кымесо_газель GPE 0.679699169051 Red-fronted_gazelle B-LOC
+кымесо None I-LOC
+газель None I-LOC
+
+Горд Горд_кымесо_газель Горд_кымесо_газель GPE 0.679699169051 Red-fronted_gazelle B-LOC
+кымесо None I-LOC
+газель None I-LOC
+
+Канна Канна_(пӧйшур) Канна_(пӧйшур) GPE 0.679699169051 Common_eland B-LOC
+( None I-LOC
+пӧйшур None I-LOC
+) None I-LOC
+
+Шунды Шунды_пуксён_канна Шунды_пуксён_канна GPE 0.679699169051 Giant_eland B-LOC
+пуксён None I-LOC
+канна None I-LOC
+
+''Connochaetes None O
+taurinus None O
+'' None O
+– None O
+Чагыр Чагыр_гну Чагыр_гну GPE 0.679699169051 Blue_wildebeest B-LOC
+гну None I-LOC
+
+Ньыль Ньыль_сюро_антилопа Ньыль_сюро_антилопа GPE 0.679699169051 Four-horned_antelope B-LOC
+сюро None I-LOC
+антилопа None I-LOC
+
+перенаправление None O
+Санкт-Петербургысь Санкт-Петербургысь_кун_университет Санкт-Петербургысь_кун_университет ORG 0.999999996925 Saint_Petersburg_State_University B-ORG
+кун None I-ORG
+университет None I-ORG
+
+Интыяськемын None O
+Тартуын Тарту Тартуын GPE 1.0 Tartu B-LOC
+, None O
+но None O
+куд-ог None O
+колледжъёсыз None O
+мукет None O
+каръёсын None O
+ужало None O
+но None O
+. None O
+
+' None O
+'' None O
+Па́уль None O
+А́львре None O
+'' None O
+' None O
+( None O
+Paul-Johannes None O
+Alvre None O
+, None O
+Па́уль-Иоха́ннес None O
+Ю́ханович None O
+А́львре None O
+) None O
+— None O
+эстон Эстония эстон GPE 0.999997941033 Estonia B-LOC
+кылчи None O
+. None O
+
+Сан-Томе Сан-Томе_(кар) Сан-Томе_(кар) GPE 1.0 São_Tomé B-LOC
+( None I-LOC
+кар None I-LOC
+) None I-LOC
+
+' None O
+'' None O
+Тунис Тунис_(кар) Тунис_(кар) GPE 1.0 Tunis B-LOC
+( None I-LOC
+кар None I-LOC
+) None I-LOC
+'' None O
+' None O
+
+Со None O
+сяна None O
+, None O
+Парижлэн None O
+пӧртэм None O
+кунъёсын None O
+ог None O
+30 None O
+эшкаръёсыз None O
+вань None O
+на None O
+( None O
+Россиын Россия Россиын GPE 0.999995518192 Russia B-LOC
+— None O
+Муско Муско Муско GPE 0.999999999998 Moscow B-LOC
+но None O
+Санкт-Петербург Санкт-Петербург Санкт-Петербург GPE 0.999999999992 Saint_Petersburg B-LOC
+) None O
+. None O
+
+Кӧня None O
+ке None O
+суредъёсыз None O
+али None O
+Норвегиын Норвегия Норвегиын GPE 0.999854200889 Norway B-LOC
+адӟытонэ None O
+пуктэмын None O
+. None O
+
+Тӧдьы Тӧдьы_быжо_ӧрӟи Тӧдьы_быжо_ӧрӟи GPE 0.679699169051 White-tailed_eagle B-LOC
+быжо None I-LOC
+ӧрӟи None I-LOC
+
+Флоридаысь Флоридаысь_пещерной_гондыр Флоридаысь_пещерной_гондыр GPE 0.679699169051 Tremarctos_floridanus B-LOC
+пещерной None I-LOC
+гондыр None I-LOC
+
+Покчи Покчи_кеч Покчи_кеч GPE 0.679699169051 European_rabbit B-LOC
+кеч None I-LOC
+( None O
+''Oryctolagus None O
+'' None O
+) None O
+
+Удмурт Удмурт_кун_университет Удмурт_кун_университетлэн ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетлэн None I-ORG
+филология None O
+факультетлэн None O
+заочной None O
+люкетаз None O
+дышетскыны None O
+пыриз None O
+. None O
+
+Россиын Россия Россиын GPE 0.999995518192 Russia B-LOC
+солэн None O
+быдӟалаез None O
+— None O
+8,5 None O
+адями None O
+/ None O
+км2 None O
+, None O
+Удмуртиын Удмуртия Удмуртиын GPE 0.999999994295 Udmurtia B-LOC
+– None O
+38,6 None O
+адями None O
+/ None O
+км2 None O
+. None O
+
+Матысь None O
+Шунды None O
+ӝужан None O
+палъёслэн None O
+бадӟымез None O
+люкетсы None O
+кылле None O
+Азиын Азия Азиын GPE 0.999999991553 Asia B-LOC
+, None O
+оглюкетсы None O
+гинэ None O
+Африкаын Африка Африкаын GPE 1.0 Africa B-LOC
+. None O
+
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+но None O
+Кипр Кипр Кипр GPE 1.0 Cyprus B-LOC
+ассэ None O
+Европае Европа Европае GPE 1.0 Europe B-LOC
+пырто None O
+. None O
+
+Герцогстволэн None O
+бускельёсыз None O
+луо None O
+Бельгия Бельгия Бельгия GPE 0.99999637399 Belgium B-LOC
+, None O
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+но None O
+Франция Франция Франция GPE 0.999997637559 France B-LOC
+. None O
+
+Гринвич Гринвич_дыр Гринвич_дыр GPE 0.929833654748 Greenwich_Mean_Time B-LOC
+дыр None I-LOC
++4 None O
+... None O
++6 None O
+
+- None O
+Руан Руан Руан GPE 0.999999999999 Rouen B-LOC
+( None O
+) None O
+) None O
+
+**** None O
+''Tragelaphus None O
+strepsiceros None O
+'' None O
+– None O
+Бадӟым Бадӟым_куду Бадӟым_куду GPE 0.679699169051 Greater_kudu B-LOC
+куду None I-LOC
+
+**** None O
+''Tragelaphus None O
+buxtoni None O
+'' None O
+– None O
+Гурезь Гурезь_ньяла Гурезь_ньяла GPE 0.679699169051 Mountain_nyala B-LOC
+ньяла None I-LOC
+
+**** None O
+''Taurotragus None O
+oryx None O
+'' None O
+– None O
+Канна Канна_(пӧйшур) Канна GPE 0.679699169051 Common_eland B-LOC
+
+**** None O
+''Taurotragus None O
+derbianus None O
+'' None O
+– None O
+Шунды Шунды_пуксён_канна Шунды_пуксён_канна GPE 0.679699169051 Giant_eland B-LOC
+пуксён None I-LOC
+канна None I-LOC
+
+*** None O
+''Hippotragus None O
+niger None O
+'' None O
+– None O
+Сьӧд Сьӧд_антилопа Сьӧд_антилопа GPE 0.679699169051 Sable_antelope B-LOC
+антилопа None I-LOC
+
+*** None O
+''Oryx None O
+leucoryx None O
+'' None O
+– None O
+Аравиысь Аравиысь_орикс Аравиысь_орикс GPE 0.679699169051 Arabian_oryx B-LOC
+орикс None I-LOC
+
+**** None O
+''Gazella None O
+dorcas None O
+'' None O
+– None O
+Газель-доркас Газель-доркас Газель-доркас GPE 0.679699169051 Dorcas_gazelle B-LOC
+
+**** None O
+''Gazella None O
+subgutturosa None O
+'' None O
+– None O
+Джейран Джейран Джейран GPE 0.679699169051 Goitered_gazelle B-LOC
+
+**** None O
+''Eudorcas None O
+rufifrons None O
+'' None O
+– None O
+Горд Горд_кымесо_газель Горд_кымесо_газель GPE 0.679699169051 Red-fronted_gazelle B-LOC
+кымесо None I-LOC
+газель None I-LOC
+
+**** None O
+''Nanger None O
+dama None O
+'' None O
+– None O
+Газель-дама Газель-дама Газель-дама GPE 0.679699169051 Dama_gazelle B-LOC
+
+**** None O
+''Nanger None O
+soemmeringii None O
+'' None O
+– None O
+Сомалиысь Сомалиысь_газель Сомалиысь_газель GPE 0.679699169051 Soemmerring's_gazelle B-LOC
+газель None I-LOC
+
+**** None O
+''Procapra None O
+gutturosa None O
+'' None O
+– None O
+Дзерен Дзерен Дзерен GPE 0.679699169051 Mongolian_gazelle B-LOC
+
+**** None O
+''Saiga None O
+tatarica None O
+'' None O
+– None O
+Сайга Сайга Сайга GPE 0.679699169051 Saiga_antelope B-LOC
+
+**** None O
+''Raphicerus None O
+melanotis None O
+'' None O
+– None O
+Лымшор Лымшор_грисбок Лымшор_грисбок GPE 0.679699169051 Cape_grysbok B-LOC
+грисбок None I-LOC
+
+**** None O
+''Raphicerus None O
+sharpei None O
+'' None O
+– None O
+Уйпал Уйпал_грисбок Уйпал_грисбок GPE 0.679699169051 Sharpe's_grysbok B-LOC
+грисбок None I-LOC
+
+*** None O
+''Damaliscus None O
+lunatus None O
+'' None O
+– None O
+Топи Топи_(пöйшур) Топи GPE 0.679699169051 Common_tsessebe B-LOC
+
+*** None O
+''Alcelaphus None O
+caama None O
+'' None O
+– None O
+Горд Горд_бубал Горд_бубал GPE 0.679699169051 Red_hartebeest B-LOC
+бубал None I-LOC
+
+*** None O
+''Connochaetes None O
+taurinus None O
+'' None O
+– None O
+Чагыр Чагыр_гну Чагыр_гну GPE 0.679699169051 Blue_wildebeest B-LOC
+гну None I-LOC
+
+Гринвич Гринвич_дыр Гринвич_дыр GPE 0.929833654748 Greenwich_Mean_Time B-LOC
+дыр None I-LOC
++7 None O
+... None O
++8 None O
+
+Ижен Иж Ижен GPE 0.999999579292 Izhevsk B-LOC
+виссы None O
+— None O
+62 None O
+километр None O
+, None O
+Мускоен Муско Мускоен GPE 0.999999999998 Moscow B-LOC
+— None O
+1 None O
+сюрс None O
+191 None O
+километр None O
+. None O
+
+' None O
+'' None O
+Алжир Алжир_(кар) Алжир_(кар) GPE 1.0 Algiers B-LOC
+( None I-LOC
+кар None I-LOC
+) None I-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Джибути Джибути_(кар) Джибути_(кар) GPE 1.0 Djibouti_(city) B-LOC
+( None I-LOC
+кар None I-LOC
+) None I-LOC
+'' None O
+' None O
+
+Выжыяськемын None O
+Ижлэсь Иж Ижлэсь GPE 0.999999579292 Izhevsk B-LOC
+180 None O
+километрлы None O
+палэнэ None O
+— None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шурлэн None O
+паллян None O
+ярдур None O
+котыраз None O
+. None O
+
+Азиысь Азиысь_сьӧд_гондыр Азиысь_сьӧд_гондыр GPE 0.679699169051 Asian_black_bear B-LOC
+сьӧд None I-LOC
+гондыр None I-LOC
+
+Шунды Шунды_ӝужан_пал_Тимор Шунды_ӝужан_пал_Тимор GPE 0.999999999959 East_Timor B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+Тимор None I-LOC
+
+' None O
+'' None O
+Азиысь Азиысь_сьӧд_гондыр Азиысь_сьӧд_гондыр GPE 0.679699169051 Asian_black_bear B-LOC
+сьӧд None I-LOC
+гондыр None I-LOC
+'' None O
+' None O
+
+Удмурт Удмурт_кун_университет Удмурт_кун_университет ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университет None I-ORG
+
+' None O
+'' None O
+Татья́на None O
+Степа́новна None O
+Перево́зчикова None O
+'' None O
+' None O
+— None O
+Дэбес Дэбес_ёрос Дэбес_ёросысь GPE 0.99999999929 Debyossky_District B-LOC
+ёросысь None I-LOC
+«Темп» None O
+крестьян None O
+хозяйстволэн None O
+кивалтӥсез None O
+. None O
+
+' None O
+'' None O
+Вениами́н None O
+Вениами́нович None O
+Ивано́в None O
+'' None O
+' None O
+— None O
+Шаркан Шаркан_ёрос Шаркан_ёросысь GPE 0.99999999929 Sharkansky_District B-LOC
+ёросысь None I-LOC
+ЗАО None O
+«Ошмесысь» None O
+механик None O
+. None O
+
+' None O
+'' None O
+Евге́ния None O
+Влади́мировна None O
+Ко́пысова None O
+'' None O
+' None O
+— None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+композитор None O
+, None O
+крезьгурез None O
+калык None O
+пӧлы None O
+вӧлмытӥсь None O
+. None O
+
+' None O
+'' None O
+Людми́ла None O
+Никола́евна None O
+Бе́хтерева None O
+'' None O
+' None O
+— None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+историк None O
+, None O
+истори None O
+наукаосъя None O
+кандидат None O
+( None O
+1998 None O
+) None O
+. None O
+
+Вордскемын None O
+Грах Грах_ёрос Грах_ёросысь GPE 0.99999999929 Grakhovsky_District B-LOC
+ёросысь None I-LOC
+Куюк None O
+гуртын None O
+интеллигентъёслэн None O
+семьяязы None O
+. None O
+
+Собере None O
+Ижысь Иж Ижысь GPE 0.999999579292 Izhevsk B-LOC
+23-тӥ None O
+шор-ёзо None O
+школаын None O
+дышетӥсь None O
+луыса None O
+ужаз None O
+. None O
+
+' None O
+'' None O
+Никола́й None O
+Вита́льевич None O
+Митюко́в None O
+'' None O
+' None O
+— None O
+Ижысь Иж Ижысь GPE 0.999999579292 Izhevsk B-LOC
+испанист None O
+, None O
+историк None O
+но None O
+техника None O
+удысын None O
+ужась None O
+. None O
+
+Улэ None O
+но None O
+ужа None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+. None O
+
+' None O
+'' None O
+Еле́на None O
+Леони́довна None O
+Бусы́гина None O
+'' None O
+' None O
+— None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+физик-твердотельщик None O
+, None O
+спортсмен None O
+. None O
+
+Соин None O
+ик None O
+сыӵе None O
+«бызгетон» None O
+шудонлы None O
+«кубыз» None O
+ним None O
+понӥлям» None O
+( None O
+Кузебай Кузебай_Герд Кузебай_Гердкытысь PER 0.997515128349 Kuzebay_Gerd B-PER
+Гердкытысь None I-PER
+со None O
+цитата None O
+басьтэмын None O
+? None O
+
+Иж Иж Иж GPE 0.999999579292 Izhevsk B-LOC
+( None O
+филиалъёссэ None O
+лыдъятэк None O
+) None O
+
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+, None O
+Белоруссия Белоруссия Белоруссия GPE 0.999995602846 Belarus B-LOC
+, None O
+Украина Украина Украина GPE 0.999986206506 Ukraine B-LOC
+, None O
+Казахстан Казахстан Казахстан GPE 0.999996070922 Kazakhstan B-LOC
+, None O
+Молдавия Молдавия Молдавия GPE 0.999994727044 Moldova B-LOC
+, None O
+Армения Армения Армения GPE 0.999997847064 Armenia B-LOC
+, None O
+Израиль Израиль Израиль GPE 0.999992516157 Israel B-LOC
+, None O
+Латвия Латвия Латвия GPE 0.999998814392 Latvia B-LOC
+, None O
+Литва Литва Литва GPE 0.999996763656 Lithuania B-LOC
+, None O
+Эстония Эстония Эстония GPE 0.999997941033 Estonia B-LOC
+, None O
+
+Скендинейвиен Скендинейвиен_Мьюзик_Груп Скендинейвиен_Мьюзик_Груп ORG 0.999842642226 Scandinavian_Music_Group B-ORG
+Мьюзик None I-ORG
+Груп None I-ORG
+
+Фаркаш Фаркаш,_Берталан Фаркаш,_Берталан PER 0.999999829579 Bertalan_Farkas B-PER
+, None I-PER
+Берталан None I-PER
+
+Вордскемын None O
+туала None O
+Саратов Саратов_улос Саратов_улосысь GPE 0.999999998807 Saratov_Oblast B-LOC
+улосысь None I-LOC
+Вольск None O
+карын None O
+. None O
+
+1942 None O
+арысен None O
+Улэ None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+. None O
+
+Капуцин Капуцин_(маймыл) Капуцин_(маймыл) GPE 0.679699169051 Gracile_capuchin_monkey B-LOC
+( None I-LOC
+маймыл None I-LOC
+) None I-LOC
+
+Herb None O
+Warszawy]] None O
+' None O
+'' None O
+Варшава Варшава Варшава GPE 1.0 Warsaw B-LOC
+( None O
+Warszawa None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Krakowa]] None O
+' None O
+'' None O
+Кракув Кракув Кракув GPE 1.0 Kraków B-LOC
+( None O
+Kraków None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Łodzi]] None O
+' None O
+'' None O
+Луӟ Луӟ Луӟ GPE 1.0 Łódź B-LOC
+( None O
+Łódź None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Wrocławia]] None O
+' None O
+'' None O
+Вроцлав Вроцлав Вроцлав GPE 1.0 Wrocław B-LOC
+( None O
+Wrocław None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Poznania]] None O
+' None O
+'' None O
+Познань Познань Познань GPE 1.0 Poznań B-LOC
+( None O
+Poznań None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Szczecina]] None O
+' None O
+'' None O
+Шӵечин Шӵечин Шӵечин GPE 1.0 Szczecin B-LOC
+( None O
+Szczecin None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Katowic]] None O
+' None O
+'' None O
+Катовице Катовице Катовице GPE 1.0 Katowice B-LOC
+( None O
+Katowice None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Gdyni]] None O
+' None O
+'' None O
+Гдыня Гдыня Гдыня GPE 1.0 Gdynia B-LOC
+( None O
+Gdynia None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Częstochowy]] None O
+' None O
+'' None O
+Ӵенстохова Ӵенстохова Ӵенстохова GPE 1.0 Częstochowa B-LOC
+( None O
+Częstochowa None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Kielc]] None O
+' None O
+'' None O
+Кельце Кельце Кельце GPE 1.0 Kielce B-LOC
+( None O
+Kielce None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Olsztyna]] None O
+' None O
+'' None O
+Ольштын Ольштын Ольштын GPE 1.0 Olsztyn B-LOC
+( None O
+Olsztyn None O
+) None O
+' None O
+'' None O
+
+Herb None O
+Koszalina]] None O
+' None O
+'' None O
+Кошалин Кошалин Кошалин GPE 1.0 Koszalin B-LOC
+( None O
+Koszalin None O
+) None O
+' None O
+'' None O
+
+' None O
+'' None O
+Куинькар Куинькар Куинькар GPE 0.999999999964 Tricity,_Poland B-LOC
+( None O
+Trójmiasto None O
+) None O
+' None O
+'' None O
+
+Горд Горд_йыро_тамарин Горд_йыро_тамарин GPE 0.679699169051 Red-capped_tamarin B-LOC
+йыро None I-LOC
+тамарин None I-LOC
+
+Тӧдьы Тӧдьы_куко_тамарин Тӧдьы_куко_тамарин GPE 0.679699169051 White-footed_tamarin B-LOC
+куко None I-LOC
+тамарин None I-LOC
+
+Зарни Зарни_йыро_арыслан_маймыл Зарни_йыро_арыслан_маймыл GPE 0.679699169051 Golden-headed_lion_tamarin B-LOC
+йыро None I-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+Зарни Зарни_арыслан_маймыл Зарни_арыслан_маймыл GPE 0.679699169051 Golden_lion_tamarin B-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+Сьӧд Сьӧд_ымныро_арыслан_маймыл Сьӧд_ымныро_арыслан_маймыл GPE 0.679699169051 Superagui_lion_tamarin B-LOC
+ымныро None I-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+Сьӧд Сьӧд_арыслан_маймыл Сьӧд_арыслан_маймыл GPE 0.679699169051 Black_lion_tamarin B-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+Курень Курень_бадӟым_галаго Курень_бадӟым_галаго GPE 0.679699169051 Brown_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+Азвесь Азвесь_бадӟым_галаго Азвесь_бадӟым_галаго GPE 0.679699169051 Silvery_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+''Leontopithecus None O
+rosalia None O
+'' None O
+– None O
+Зарни Зарни_арыслан_маймыл Зарни_арыслан_маймыл GPE 0.679699169051 Golden_lion_tamarin B-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+''Leontopithecus None O
+chrysomelas None O
+'' None O
+– None O
+Зарни Зарни_йыро_арыслан_маймыл Зарни_йыро_арыслан_маймыл GPE 0.679699169051 Golden-headed_lion_tamarin B-LOC
+йыро None I-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+''Leontopithecus None O
+chrysopygus None O
+'' None O
+– None O
+Сьӧд Сьӧд_арыслан_маймыл Сьӧд_арыслан_маймыл GPE 0.679699169051 Black_lion_tamarin B-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+''Leontopithecus None O
+caissara None O
+'' None O
+– None O
+Сьӧд Сьӧд_ымныро_арыслан_маймыл Сьӧд_ымныро_арыслан_маймыл GPE 0.679699169051 Superagui_lion_tamarin B-LOC
+ымныро None I-LOC
+арыслан None I-LOC
+маймыл None I-LOC
+
+Зарни Зарни_йыро_сифака Зарни_йыро_сифака GPE 0.679699169051 Golden-crowned_sifaka B-LOC
+йыро None I-LOC
+сифака None I-LOC
+
+''Otolemur None O
+crassicaudatus None O
+'' None O
+– None O
+Курень Курень_бадӟым_галаго Курень_бадӟым_галаго GPE 0.679699169051 Brown_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+''Otolemur None O
+monteiri None O
+'' None O
+– None O
+Азвесь Азвесь_бадӟым_галаго Азвесь_бадӟым_галаго GPE 0.679699169051 Silvery_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+** None O
+''Propithecus None O
+tattersalli None O
+'' None O
+– None O
+Зарни Зарни_йыро_сифака Зарни_йыро_сифака GPE 0.679699169051 Golden-crowned_sifaka B-LOC
+йыро None I-LOC
+сифака None I-LOC
+
+** None O
+''Otolemur None O
+crassicaudatus None O
+'' None O
+– None O
+Курень Курень_бадӟым_галаго Курень_бадӟым_галаго GPE 0.679699169051 Brown_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+** None O
+''Otolemur None O
+monteiri None O
+'' None O
+– None O
+Азвесь Азвесь_бадӟым_галаго Азвесь_бадӟым_галаго GPE 0.679699169051 Silvery_greater_galago B-LOC
+бадӟым None I-LOC
+галаго None I-LOC
+
+''Toshkent None O
+/ None O
+Тошкент None O
+'' None O
+) None O
+- None O
+Узбекистанлэн Узбекистан Узбекистанлэн GPE 0.999995771675 Uzbekistan B-LOC
+шоркарез Шоркар шоркарез GPE 0.929558215169 Capital_city B-LOC
+, None O
+вузкаронъя None O
+, None O
+транспортъя None O
+, None O
+наукая None O
+, None O
+религияя None O
+но None O
+промышленностья None O
+центр None O
+. None O
+
+** None O
+''Saguinus None O
+niger None O
+'' None O
+– None O
+Сьӧд Сьӧд_тамарин Сьӧд_тамарин GPE 0.679699169051 Black_tamarin B-LOC
+тамарин None I-LOC
+
+** None O
+''Saguinus None O
+pileatus None O
+'' None O
+– None O
+Горд Горд_йыро_тамарин Горд_йыро_тамарин GPE 0.679699169051 Red-capped_tamarin B-LOC
+йыро None I-LOC
+тамарин None I-LOC
+
+** None O
+''Saguinus None O
+leucopus None O
+'' None O
+– None O
+Тӧдьы Тӧдьы_куко_тамарин Тӧдьы_куко_тамарин GPE 0.679699169051 White-footed_tamarin B-LOC
+куко None I-LOC
+тамарин None I-LOC
+
+Пурысь Пурысь_юбер Пурысь_юбер GPE 0.679699169051 White-cheeked_starling B-LOC
+юбер None I-LOC
+( None O
+''Sturnus None O
+cineraceus None O
+'' None O
+) None O
+
+''Perca None O
+schrenkii None O
+'' None O
+– None O
+Балхашысь Балхашысь_юш Балхашысь_юш GPE 0.679699169051 Balkhash_perch B-LOC
+юш None I-LOC
+
+'' None O
+Шылан Шылан Шылан GPE 0.679699169051 Equisetum_sylvaticum B-LOC
+'' None O
+' None O
+( None O
+''Equisetum None O
+sylvaticum None O
+'' None O
+) None O
+
+Ӵуж Ӵуж_йыро_йӧгылтӥсь Ӵуж_йыро_йӧгылтӥсь GPE 0.679699169051 Citrine_wagtail B-LOC
+йыро None I-LOC
+йӧгылтӥсь None I-LOC
+( None O
+''Motacilla None O
+citreola None O
+'' None O
+) None O
+
+перенаправление None O
+Нижний Нижний_Новгород_улос Нижний_Новгород_улос GPE 0.999999999813 Nizhny_Novgorod_Oblast B-LOC
+Новгород None I-LOC
+улос None I-LOC
+
+Бейра Бейра_(пӧйшур) Бейра_(пӧйшур) GPE 0.679699169051 Beira_(antelope) B-LOC
+( None I-LOC
+пӧйшур None I-LOC
+) None I-LOC
+
+Бускельёсыз None O
+луо None O
+Монголия Монголия Монголия GPE 0.999989145058 Mongolia B-LOC
+, None O
+Бурятия Бурятия Бурятия GPE 0.999999994158 Buryatia B-LOC
+, None O
+Иркутск Иркутск_улос Иркутск_улос GPE 0.999999994158 Irkutsk_Oblast B-LOC
+улос None I-LOC
+, None O
+Красноярск Красноярск_шаер Красноярск_шаер GPE 0.999999994208 Krasnoyarsk_Krai B-LOC
+шаер None I-LOC
+, None O
+Хакасия Хакасия Хакасия GPE 0.999999994742 Khakassia B-LOC
+но None O
+Алтай Алтай_Республика Алтай_Республика GPE 0.999999995315 Altai_Republic B-LOC
+Республика None I-LOC
+. None O
+
+Административной None O
+центрезез None O
+Оренбург Оренбург Оренбург GPE 0.760408414528 Orenburg B-LOC
+луэ None O
+. None O
+
+Административной None O
+центрез None O
+- None O
+Нижний Нижний_Новгород Нижний_Новгород GPE 0.999999765254 Nizhny_Novgorod B-LOC
+Новгород None I-LOC
+. None O
+
+Тӧдьы Тӧдьы_ымныро_пужей Тӧдьы_ымныро_пужей GPE 0.679699169051 Thorold's_deer B-LOC
+ымныро None I-LOC
+пужей None I-LOC
+
+Тӧдьы Тӧдьы_ымныро_пужей Тӧдьы_ымныро_пужей GPE 0.679699169051 Thorold's_deer B-LOC
+ымныро None I-LOC
+пужей None I-LOC
+
+''Macropus None O
+rufus None O
+'' None O
+– None O
+Кельыт Кельыт_кенгуру Кельыт_кенгуру GPE 0.679699169051 Red_kangaroo B-LOC
+кенгуру None I-LOC
+
+''Macropus None O
+rufogrisseus None O
+'' None O
+– None O
+Кельыт-пурысь Кельыт-пурысь_валлаби Кельыт-пурысь_валлаби GPE 0.679699169051 Red-necked_wallaby B-LOC
+валлаби None I-LOC
+
+Тӧдьы Тӧдьы_киё_гиббон Тӧдьы_киё_гиббон GPE 0.679699169051 Lar_gibbon B-LOC
+киё None I-LOC
+гиббон None I-LOC
+
+Перенаправление None O
+Америкалэн Америкалэн_Огазеяськем_Штатъёсыз Америкалэн_Огазеяськем_Штатъёсыз GPE 0.99999348198 United_States B-LOC
+Огазеяськем None I-LOC
+Штатъёсыз None I-LOC
+
+Бускельёсыз None O
+луо None O
+Румыния Румыния Румыния GPE 0.999990867634 Romania B-LOC
+но None O
+Украин Украин_ССР Украин_ССР GPE 0.997580793203 Ukrainian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Китай Китай Китай GPE 0.999999167165 China B-LOC
+, None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Узбек Узбек_ССР Узбек_ССР GPE 0.993860783126 Uzbek_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Киргиз Киргиз_ССР Киргиз_ССР GPE 0.993860783126 Kirghiz_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+но None O
+Латви Латви_ССР Латви_ССР GPE 0.715637677827 Latvian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Узбек Узбек_ССР Узбек_ССР GPE 0.993860783126 Uzbek_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Казах Казах_ССР Казах_ССР GPE 0.993860783126 Kazakh_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Туркмен Туркмен_ССР Туркмен_ССР GPE 0.993906883161 Turkmen_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Казах Казах_ССР Казах_ССР GPE 0.993860783126 Kazakh_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Киргиз Киргиз_ССР Киргиз_ССР GPE 0.993860783126 Kirghiz_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Таджик Таджик_ССР Таджик_ССР GPE 0.993860783126 Tajik_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Белорус Белорус_ССР Белорус_ССР GPE 0.99765178415 Byelorussian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+, None O
+Молдав Молдав_ССР Молдав_ССР GPE 0.993860783126 Moldavian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Румыния Румыния Румыния GPE 0.999990867634 Romania B-LOC
+, None O
+Венгрия Венгрия Венгрия GPE 0.999993411483 Hungary B-LOC
+, None O
+Словакия Словакия Словакия GPE 0.999993309884 Slovakia B-LOC
+но None O
+Польша Польша Польша GPE 0.999995090538 Poland B-LOC
+. None O
+
+Егитъёслэн Егитъёслэн_революционной_коммунистической_союззы Егитъёслэн_революционной_коммунистической_союззы ORG 0.999904449098 Revolutionary_Communist_Youth_League_(Bolshevik) B-ORG
+революционной None I-ORG
+коммунистической None I-ORG
+союззы None I-ORG
+
+Греция Греция Греция GPE 0.999468851293 Greece B-LOC
+, None O
+Кипр Кипр Кипр GPE 1.0 Cyprus B-LOC
+, None O
+Италия Италия Италия GPE 0.999994576668 Italy B-LOC
+, None O
+Албания Албания Албания GPE 0.999996663787 Albania B-LOC
+
+*** None O
+''Cervus None O
+albirostris None O
+'' None O
+– None O
+Тӧдьы Тӧдьы_ымныро_пужей Тӧдьы_ымныро_пужей GPE 0.679699169051 Thorold's_deer B-LOC
+ымныро None I-LOC
+пужей None I-LOC
+
+** None O
+''Mazama None O
+'' None O
+– None O
+Мазама Мазама Мазама GPE 0.679699169051 Brocket_deer B-LOC
+
+Со None O
+пӧлысь None O
+40 None O
+процентэз None O
+гуртын None O
+уло None O
+, None O
+60 None O
+процентэз None O
+выжыяськемын None O
+Камбарка Камбарка Камбарка GPE 0.999998686431 Kambarka B-LOC
+городэ None O
+. None O
+
+1934-тӥ None O
+арысен None O
+та None O
+ёросэз None O
+Киров Киров_улос Киров_улос GPE 0.999999994208 Kirov_Oblast B-LOC
+улос None I-LOC
+борды None O
+но None O
+гожъязы None O
+. None O
+
+1937-тӥ None O
+арын None O
+со None O
+берытскиз None O
+Удмуртия Удмуртия Удмуртия GPE 0.999999994295 Udmurtia B-LOC
+борды None O
+. None O
+
+1931-тӥ None O
+арын None O
+районэз None O
+Сарапул Сарапул_ёрос Сарапул_ёрос GPE 0.99999999929 Sarapulsky_District B-LOC
+ёрос None I-LOC
+борды None O
+огазеязы None O
+. None O
+
+Сюрес None O
+кыстӥськиз None O
+Дэбесысен None O
+Кунгурозь Кунгур Кунгурозь ORG 0.862717356619 Hymn B-ORG
+. None O
+
+Таӵе None O
+ним None O
+солы None O
+гуртоос None O
+сётӥллям None O
+Е. Пугачёв,_Емельян_Иванович Е._Пугачёвлэн PER 0.994295226107 Yemelyan_Pugachev B-PER
+Пугачёвлэн None I-PER
+ожгарчиосыз None O
+татын None O
+тулкымъяськем None O
+бере None O
+. None O
+
+Огазеяськем Огазеяськем_Араб_Эмиратъёс Огазеяськем_Араб_Эмиратъёс GPE 0.999995713824 United_Arab_Emirates B-LOC
+Араб None I-LOC
+Эмиратъёс None I-LOC
+
+Нош None O
+Эгра Эгра_ёрос Эгра_ёросысь GPE 0.99999999929 Igrinsky_District B-LOC
+ёросысь None I-LOC
+4 None O
+сюрс None O
+700 None O
+пала None O
+мурт None O
+аслэсьтыз None O
+улонзэ None O
+сётӥз None O
+, None O
+Родинамес None O
+утьыса None O
+. None O
+
+Гринвич Гринвич_дыр Гринвич_дыр GPE 0.929833654748 Greenwich_Mean_Time B-LOC
+дыр None I-LOC
++7 None O
+... None O
++9 None O
+
+Интыяськемын None O
+Санкт-Петербургын Санкт-Петербург Санкт-Петербургын GPE 0.999999999992 Saint_Petersburg B-LOC
+, None O
+отын None O
+дышетске None O
+ог None O
+30 None O
+сюрс None O
+студент None O
+. None O
+
+Ашальчи Ашальчи Ашальчи GPE 0.679699169051 Orchis B-LOC
+— None O
+сяськалэсь None O
+нимзэ None O
+псевдоним None O
+. None O
+
+Со None O
+Пичи Пичи_Пурга_ёрос Пичи_Пурга_ёрослэн GPE 0.99999999929 Malopurginsky_District B-LOC
+Пурга None I-LOC
+ёрослэн None I-LOC
+центрез None O
+луэ None O
+. None O
+
+1971-тӥ None O
+арын None O
+Мускоын Муско Мускоын GPE 0.999999999998 Moscow B-LOC
+югыт None O
+дуннеез None O
+адӟе None O
+солэн None O
+«Черёмуха» None O
+книгаез None O
+. None O
+
+*** None O
+Pinus Pinus_flexilis Pinus_flexilis GPE 0.679699169051 Pinus_flexilis B-LOC
+flexilis None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_pumila Pinus_pumila GPE 0.679699169051 Pinus_pumila B-LOC
+pumila None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_nelsonii Pinus_nelsonii GPE 0.679699169051 Pinus_nelsonii B-LOC
+nelsonii None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_gerardiana Pinus_gerardiana GPE 0.679699169051 Pinus_gerardiana B-LOC
+gerardiana None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_squamata Pinus_squamata GPE 0.679699169051 Pinus_squamata B-LOC
+squamata None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_maximartinezii Pinus_maximartinezii GPE 0.679699169051 Pinus_maximartinezii B-LOC
+maximartinezii None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_pinceana Pinus_pinceana GPE 0.679699169051 Pinus_pinceana B-LOC
+pinceana None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_rzedowskii Pinus_rzedowskii GPE 0.679699169051 Pinus_rzedowskii B-LOC
+rzedowskii None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_cembroides Pinus_cembroides GPE 0.679699169051 Pinus_cembroides B-LOC
+cembroides None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_culminicola Pinus_culminicola GPE 0.679699169051 Pinus_culminicola B-LOC
+culminicola None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_johannis Pinus_johannis GPE 0.679699169051 Pinus_johannis B-LOC
+johannis None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_monophylla Pinus_monophylla GPE 0.679699169051 Pinus_monophylla B-LOC
+monophylla None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_aristata Pinus_aristata GPE 0.679699169051 Pinus_aristata B-LOC
+aristata None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_balfouriana Pinus_balfouriana GPE 0.679699169051 Pinus_balfouriana B-LOC
+balfouriana None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_sylvestris Pinus_sylvestris GPE 0.679699169051 Scots_pine B-LOC
+sylvestris None I-LOC
+'' None O
+— None O
+
+*** None O
+Pinus Pinus_roxburghii Pinus_roxburghii GPE 0.679699169051 Pinus_roxburghii B-LOC
+roxburghii None I-LOC
+'' None O
+— None O
+
+Кылбур None O
+дуннее None O
+кыстӥськон None O
+мылкыдыз None O
+ӝутӥськиз None O
+, None O
+Можгаын Можга Можгаын GPE 1.0 Mozhga B-LOC
+дышетскыкуз None O
+. None O
+
+Сьӧд Сьӧд_ныро_кикы Сьӧд_ныро_кикы GPE 0.679699169051 Black-billed_cuckoo B-LOC
+ныро None I-LOC
+кикы None I-LOC
+
+Ӵуж Ӵуж_ныро_кикы Ӵуж_ныро_кикы GPE 0.679699169051 Yellow-billed_cuckoo B-LOC
+ныро None I-LOC
+кикы None I-LOC
+
+Тӧдьы Тӧдьы_бурдо_кайсы Тӧдьы_бурдо_кайсы GPE 0.679699169051 Two-barred_crossbill B-LOC
+бурдо None I-LOC
+кайсы None I-LOC
+
+перенаправление None O
+Тӧдьы Тӧдьы_бурдо_кайсы Тӧдьы_бурдо_кайсы GPE 0.679699169051 Two-barred_crossbill B-LOC
+бурдо None I-LOC
+кайсы None I-LOC
+
+Ӵуж Ӵуж_йыро_йӧгылтӥсь Ӵуж_йыро_йӧгылтӥсь GPE 0.679699169051 Citrine_wagtail B-LOC
+йыро None I-LOC
+йӧгылтӥсь None I-LOC
+
+Интыяськемын None O
+Тиса Тиса Тиса GPE 0.999999999993 Tisza B-LOC
+шур None O
+дуре None O
+. None O
+
+Куинь Куинь_тычинкаем_бадь Куинь_тычинкаем_бадь GPE 0.679699169051 Salix_triandra B-LOC
+тычинкаем None I-LOC
+бадь None I-LOC
+
+1931-тӥ None O
+арын None O
+кошке None O
+Муское Муско Муское GPE 0.999999999998 Moscow B-LOC
+, None O
+дышетскыны None O
+пыре None O
+аспирантурае None O
+. None O
+
+Таяз None O
+радэ None O
+кечато-вамато None O
+укно None O
+сьӧрын None O
+со None O
+пукиз None O
+1936-тӥ-1938-тӥ None O
+аръёсы None O
+Иркутск Иркутск Иркутск GPE 0.999242521386 Irkutsk B-LOC
+палъёсын None O
+. None O
+
+Пермьлэн Пермь Пермьлэн GPE 0.761937149282 Perm B-LOC
+туж None O
+тунсыко None O
+кылдон None O
+но None O
+азинскон None O
+сюресэз None O
+луэ None O
+. None O
+
+Венаын Вена Венаын GPE 0.999999999982 Vienna B-LOC
+ортчись None O
+промышленностья None O
+адӟытонын None O
+та None O
+ужан None O
+тӥрлыклы None O
+нырысетӥ None O
+инты None O
+сёто None O
+. None O
+
+Бадӟым Бадӟым_куӵо_сизь Бадӟым_куӵо_сизь GPE 0.679699169051 Great_spotted_woodpecker B-LOC
+куӵо None I-LOC
+сизь None I-LOC
+
+перенаправление None O
+Успен Успен_собор_(Муско) Успен_собор_(Муско) ORG 0.999999601674 Dormition_Cathedral,_Moscow B-ORG
+собор None I-ORG
+( None I-ORG
+Муско None I-ORG
+) None I-ORG
+
+перенаправление None O
+Архангел Архангел_собор_(Муско) Архангел_собор_(Муско) ORG 0.999999601674 Cathedral_of_the_Archangel B-ORG
+собор None I-ORG
+( None I-ORG
+Муско None I-ORG
+) None I-ORG
+
+1774-тӥ None O
+арын None O
+та None O
+гуртэ None O
+вуылӥз None O
+Емельян Пугачёв,_Емельян_Иванович Емельян_Пугачев PER 0.994295226107 Yemelyan_Pugachev B-PER
+Пугачев None I-PER
+. None O
+
+Алтай Алтай_Республика Алтай_Республика GPE 0.999999995315 Altai_Republic B-LOC
+Республика None I-LOC
+, None O
+Алтай Алтай_шаер Алтай_шаер GPE 0.999999994158 Altai_Krai B-LOC
+шаер None I-LOC
+
+Административной None O
+центрез None O
+Чита Чита Чита GPE 0.999998789311 Chita,_Zabaykalsky_Krai B-LOC
+луэ None O
+. None O
+
+Административной None O
+центрез None O
+Барнаул Барнаул Барнаул GPE 0.759450721593 Barnaul B-LOC
+луэ None O
+. None O
+
+Административной None O
+центрез None O
+Иркутск Иркутск Иркутск GPE 0.999242521386 Irkutsk B-LOC
+луэ None O
+. None O
+
+Административной None O
+центрез None O
+- None O
+Челябинск Челябинск Челябинск GPE 0.759450721593 Chelyabinsk B-LOC
+луэ None O
+. None O
+
+Бускель None O
+улосъёсыз None O
+— None O
+Казахстан Казахстан Казахстан GPE 0.999996070922 Kazakhstan B-LOC
+, None O
+Алтай Алтай_шаер Алтай_шаер GPE 0.999999994158 Altai_Krai B-LOC
+шаер None I-LOC
+, None O
+Кемерово Кемерово_улос Кемерово GPE 0.999999994268 Kemerovo_Oblast B-LOC
+, None O
+Томск Томск_улос Томск GPE 0.999999998807 Tomsk_Oblast B-LOC
+но None O
+Омск Омск_улос Омск_улосъёс GPE 0.999999998817 Omsk_Oblast B-LOC
+улосъёс None I-LOC
+. None O
+
+Административной None O
+центрез None O
+- None O
+Омск Омск Омск GPE 0.999242521386 Omsk B-LOC
+. None O
+
+Административной None O
+центрез None O
+- None O
+Томск Томск Томск GPE 0.759450721593 Tomsk B-LOC
+. None O
+
+Шунды Шунды_ӝужан_пал_Тимор Шунды_ӝужан_пал_Тимор GPE 0.999999999959 East_Timor B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+Тимор None I-LOC
+
+AE None O
+Огазеяськем Огазеяськем_Араб_Эмиратъёс Огазеяськем_Араб_Эмиратъёс GPE 0.999995713824 United_Arab_Emirates B-LOC
+Араб None I-LOC
+Эмиратъёс None I-LOC
+
+TL None O
+Шунды Шунды_ӝужан_пал_Тимор Шунды_ӝужан_пал_Тимор GPE 0.999999999959 East_Timor B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+Тимор None I-LOC
+
+перенаправление None O
+Ханты-Манси Ханты-Манси_автономной_округ_—_Югра Ханты-Манси_автономной_округ_—_Югра GPE 0.999999999813 Khanty-Mansi_Autonomous_Okrug B-LOC
+автономной None I-LOC
+округ None I-LOC
+— None I-LOC
+Югра None I-LOC
+
+Административной None O
+центрез None O
+- None O
+Кемерово Кемерово Кемерово GPE 0.999999999841 Kemerovo B-LOC
+луэ None O
+. None O
+
+Административной None O
+центрез None O
+— None O
+Ханты-Мансийск Ханты-Мансийск Ханты-Мансийск GPE 0.999999975423 Khanty-Mansiysk B-LOC
+. None O
+
+Интыяськемын None O
+Дон Дон_(шур) Дон_шур GPE 0.999999999993 Don_River_(Russia) B-LOC
+шур None I-LOC
+дурын None O
+. None O
+
+Административной None O
+центрез None O
+Волгоград Волгоград Волгоград GPE 0.999999986973 Volgograd B-LOC
+луэ None O
+. None O
+
+Интыяськемын None O
+Волга Волга Волга GPE 0.999999999911 Volga_River B-LOC
+шур None O
+дурын None O
+. None O
+
+Бускельёсыз None O
+луо None O
+Украина Украина Украина GPE 0.999986206506 Ukraine B-LOC
+, None O
+Краснодар Краснодар_шаер Краснодар_шаер GPE 0.999999986182 Krasnodar_Krai B-LOC
+шаер None I-LOC
+, None O
+Ставрополь Ставрополь_шаер Ставрополь_шаер GPE 0.9999999863 Stavropol_Krai B-LOC
+шаер None I-LOC
+, None O
+Калмыкия Калмыкия Калмыкия GPE 0.999999994205 Kalmykia B-LOC
+, None O
+Волгоград Волгоград_улос Волгоград GPE 0.999999998807 Volgograd_Oblast B-LOC
+но None O
+Воронеж Воронеж_улос Воронеж GPE 0.999999999815 Voronezh_Oblast B-LOC
+улосъёс None O
+. None O
+
+Административной None O
+центрезез None O
+Пенза Пенза Пенза GPE 0.759450721593 Penza B-LOC
+луэ None O
+. None O
+
+Бускельёсыз None O
+луо None O
+Калмыкия Калмыкия Калмыкия GPE 0.999999994205 Kalmykia B-LOC
+, None O
+Ростов Ростов_улос Ростов_улос GPE 0.99999993845 Rostov_Oblast B-LOC
+улос None I-LOC
+, None O
+Краснодар Краснодар_шаер Краснодар_шаер GPE 0.999999986182 Krasnodar_Krai B-LOC
+шаер None I-LOC
+, None O
+Карачаево-Черкесия Карачаево-Черкесия Карачаево-Черкесия GPE 0.999999996733 Karachay-Cherkessia B-LOC
+, None O
+Кабардино-Балкария Кабардино-Балкария Кабардино-Балкария GPE 0.999999994158 Kabardino-Balkaria B-LOC
+, None O
+Уйпал Уйпал_Осетия Уйпал_Осетия ORG 0.734924935788 North_Ossetia-Alania B-ORG
+Осетия None I-ORG
+, None O
+Чечня Чечня Чечня GPE 1.0 Chechnya B-LOC
+но None O
+Дагестан Дагестан Дагестан GPE 0.999999994202 Dagestan B-LOC
+улосъёс None O
+. None O
+
+Космос Космос_(будос) Космос_(будос) GPE 0.679699169051 Cosmos_(plant) B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+' None O
+'' None O
+Гуркошур None O
+'' None O
+' None O
+– None O
+Кез Кез_ёрос Кез_ёросысь GPE 0.99999999929 Kezsky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+Та None O
+гурт None O
+дортӥ None O
+зыл-зыл None O
+бызе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шур None O
+. None O
+
+' None O
+'' None O
+Озонгурт None O
+'' None O
+' None O
+– None O
+Кез Кез_ёрос Кез_ёросысь GPE 0.99999999929 Kezsky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Айшур None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Арвазь-Пельга None O
+'' None O
+' None O
+( None O
+яке None O
+''Возьпум None O
+'' None O
+) None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Городилово None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Гуӵинь-Бодья None O
+'' None O
+' None O
+( None O
+яке None O
+' None O
+'' None O
+Гуӵин-Бодья None O
+'' None O
+' None O
+) None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+Берлo None O
+аръёсы None O
+«Новая None O
+жизнь» None O
+Кизнер Кизнер_ёрос Кизнер_ёрос GPE 0.99999999929 Kiznersky_District B-LOC
+ёрос None I-LOC
+газетлэн None O
+вaлтӥсь None O
+редактoрез None O
+луыса None O
+тыршиз None O
+. None O
+
+' None O
+'' None O
+Бертло None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Коммуна None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Макан-Пельга None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Новотроицкое None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Поляково None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Тузьмо-Чабья None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Удмуртский None O
+Сарамак None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+' None O
+'' None O
+Ямушан-Ключи None O
+'' None O
+' None O
+– None O
+Кизнер Кизнер_ёрос Кизнер_ёросысь GPE 0.99999999929 Kiznersky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+Юстиция Юстиция_(будос) Юстиция_(будос) GPE 0.679699169051 Justicia B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+Salix Salix_atrocinerea Salix_atrocinerea GPE 0.679699169051 Salix_atrocinerea B-LOC
+atrocinerea None I-LOC
+'' None O
+– None O
+
+Salix Salix_aurita Salix_aurita GPE 0.679699169051 Salix_aurita B-LOC
+aurita None I-LOC
+'' None O
+– None O
+Ива None O
+ушастая None O
+
+Salix Salix_bakko Salix_bakko GPE 0.679699169051 Salix_bakko B-LOC
+bakko None I-LOC
+'' None O
+– None O
+
+Salix Salix_barrattiana Salix_barrattiana GPE 0.679699169051 Salix_barrattiana B-LOC
+barrattiana None I-LOC
+'' None O
+– None O
+
+Salix Salix_fragilis Salix_fragilis GPE 0.679699169051 Salix_fragilis B-LOC
+fragilis None I-LOC
+'' None O
+– None O
+Ива None O
+ломкая None O
+
+Уло None O
+Удмуртиын Удмуртия Удмуртиын GPE 0.999999994295 Udmurtia B-LOC
+, None O
+Башкириын Башкирия Башкириын GPE 0.999999995015 Bashkortostan B-LOC
+, None O
+Татарстанын Татарстан Татарстанын GPE 0.999999994742 Tatarstan B-LOC
+, None O
+Киров Киров_улос Киров GPE 0.999999994208 Kirov_Oblast B-LOC
+, None O
+Пермь Пермь_шаер Пермь GPE 0.999999994158 Perm_Krai B-LOC
+, None O
+Марий Марий_Эл_Республика Марий_Эл GPE 0.999999994158 Mari_El B-LOC
+Эл None I-LOC
+но None O
+Свердловск Свердловск_улос Свердловск GPE 0.999999998817 Sverdlovsk_Oblast B-LOC
+улосъёсын None O
+. None O
+
+Адана Адана Адана GPE 1.0 Adana B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Анкара Анкара Анкара GPE 1.0 Ankara B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Бурса Бурса Бурса GPE 1.0 Bursa B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Газиантеп Газиантеп Газиантеп GPE 1.0 Gaziantep B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Измир Измир Измир GPE 0.99999999995 İzmir B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Кайсери Кайсери Кайсери GPE 1.0 Kayseri B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Конья Конья Конья GPE 1.0 Konya B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Стамбул Стамбул Стамбул GPE 1.0 Istanbul B-LOC
+( None O
+агл None O
+. None O
+) None O
+
+Aralia Aralia_cordata Aralia_cordata GPE 0.679699169051 Aralia_cordata B-LOC
+cordata None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_dasyphylla Aralia_dasyphylla GPE 0.679699169051 Aralia_dasyphylla B-LOC
+dasyphylla None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_debilis Aralia_debilis GPE 0.679699169051 Aralia_debilis B-LOC
+debilis None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_malabarica Aralia_malabarica GPE 0.679699169051 Aralia_malabarica B-LOC
+malabarica None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_nudicaulis Aralia_nudicaulis GPE 0.679699169051 Aralia_nudicaulis B-LOC
+nudicaulis None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_racemosa Aralia_racemosa GPE 0.679699169051 Aralia_racemosa B-LOC
+racemosa None I-LOC
+'' None O
+– None O
+
+Aralia Aralia_stipulata Aralia_stipulata GPE 0.679699169051 Aralia_stipulata B-LOC
+stipulata None I-LOC
+'' None O
+– None O
+
+Финляндия Финляндия Финляндия GPE 0.999994932457 Finland B-LOC
+, None O
+Швеция Швеция Швеция GPE 0.999995353702 Sweden B-LOC
+, None O
+Эстония Эстония Эстония GPE 0.999997941033 Estonia B-LOC
+, None O
+Норвегия Норвегия Норвегия GPE 0.999854200889 Norway B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+
+Административной None O
+центрез None O
+- None O
+Курган Курган Курган GPE 0.759450721593 Kurgan,_Kurgan_Oblast B-LOC
+луэ None O
+. None O
+
+Бускельёсыз None O
+луо None O
+Краснодар Краснодар_шаер Краснодар_шаер GPE 0.999999986182 Krasnodar_Krai B-LOC
+шаер None I-LOC
+. None O
+
+Словения Словения Словения GPE 0.999995415738 Slovenia B-LOC
+, None O
+Австрия Австрия Австрия GPE 0.996472320534 Austria B-LOC
+, None O
+Италия Италия Италия GPE 0.999994576668 Italy B-LOC
+, None O
+Венгрия Венгрия Венгрия GPE 0.999993411483 Hungary B-LOC
+, None O
+Хорватия Хорватия Хорватия GPE 0.999996710561 Croatia B-LOC
+, None O
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+
+''Соьлжа-ГIала None O
+'' None O
+) None O
+- None O
+Чечен Чечня Чечен_шаерлэн GPE 1.0 Chechnya B-LOC
+шаерлэн None I-LOC
+шоркарыз Шоркар шоркарыз GPE 0.929558215169 Capital_city B-LOC
+. None O
+
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+, None O
+Австрия Австрия Австрия GPE 0.996472320534 Austria B-LOC
+, None O
+Швейцария Швейцария Швейцария GPE 0.999995552328 Switzerland B-LOC
+, None O
+Лихтенштейн Лихтенштейн Лихтенштейн GPE 0.999999999597 Liechtenstein B-LOC
+, None O
+Бельгия Бельгия Бельгия GPE 0.99999637399 Belgium B-LOC
+, None O
+Италия Италия Италия GPE 0.999994576668 Italy B-LOC
+, None O
+Люксембург Люксембург Люксембург GPE 0.999999999992 Luxembourg B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+
+Бускельёсыз None O
+луо None O
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Уйпал Уйпал_Осетия Уйпал_Осетия ORG 0.734924935788 North_Ossetia-Alania B-ORG
+Осетия None I-ORG
+, None O
+Ингушетия Ингушетия Ингушетия GPE 0.999999994158 Ingushetia B-LOC
+, None O
+Ставрополь Ставрополь_шаер Ставрополь_шаер GPE 0.9999999863 Stavropol_Krai B-LOC
+шаер None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Уйпал Уйпал_Осетия Уйпал_Осетия ORG 0.734924935788 North_Ossetia-Alania B-ORG
+Осетия None I-ORG
+, None O
+Чечня Чечня Чечня GPE 1.0 Chechnya B-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Азербайджан Азербайджан Азербайджан GPE 0.999999999851 Azerbaijan B-LOC
+, None O
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Чечня Чечня Чечня GPE 1.0 Chechnya B-LOC
+. None O
+
+Перенаправление None O
+Медведев Медведев,_Дмитрий_Анатольевич Медведев,_Дмитрий_Анатольевич PER 0.999999999074 Dmitry_Medvedev B-PER
+, None I-PER
+Дмитрий None I-PER
+Анатольевич None I-PER
+
+перенаправление None O
+Путин Путин,_Владимир_Владимирович Путин,_Владимир_Владимирович PER 0.999999998268 Vladimir_Putin B-PER
+, None I-PER
+Владимир None I-PER
+Владимирович None I-PER
+
+Перенаправление None O
+Советской Советской_Социалистической_Республикаослэн_Союззы Советской_Социалистической_Республикаослэн_Союззы GPE 0.999955184672 Soviet_Union B-LOC
+Социалистической None I-LOC
+Республикаослэн None I-LOC
+Союззы None I-LOC
+
+Бускельёсыз None O
+луо None O
+Ставрополь Ставрополь_шаер Ставрополь_шаер GPE 0.9999999863 Stavropol_Krai B-LOC
+шаер None I-LOC
+, None O
+Уйпал Уйпал_Осетия Уйпал_Осетия ORG 0.734924935788 North_Ossetia-Alania B-ORG
+Осетия None I-ORG
+, None O
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Карачаево-Черкесия Карачаево-Черкесия Карачаево-Черкесия GPE 0.999999996733 Karachay-Cherkessia B-LOC
+. None O
+
+Азьло None O
+Россия Россия Россия_Федерацияысь GPE 0.999995518192 Russia B-LOC
+Федерацияысь None I-LOC
+правительство None O
+тӧроез None O
+. None O
+
+''Карашай-Шеркеш None O
+Республикасы None O
+'' None O
+) None O
+- None O
+Россия Россия Россия_Федерациысь GPE 0.999995518192 Russia B-LOC
+Федерациысь None I-LOC
+субъект None O
+. None O
+
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Азербайджан Азербайджан Азербайджан GPE 0.999999999851 Azerbaijan B-LOC
+, None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+
+Бускельёсыз None O
+луо None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+, None O
+Грузин Грузин_ССР Грузин_ССР GPE 0.993906883161 Georgian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Азербайджан Азербайджан_ССР Азербайджан_ССР GPE 0.993860783126 Azerbaijan_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Армян Армян_ССР Армян_ССР GPE 0.993860783126 Armenian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Грузин Грузин_ССР Грузин_ССР GPE 0.993906883161 Georgian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+, None O
+Латви Латви_ССР Латви_ССР GPE 0.715637677827 Latvian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Литва Литва_ССР Литва_ССР GPE 0.715637677827 Lithuanian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Польша Польша Польша GPE 0.999995090538 Poland B-LOC
+но None O
+Украин Украин_ССР Украин_ССР GPE 0.997580793203 Ukrainian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+, None O
+Армян Армян_ССР Армян_ССР GPE 0.993860783126 Armenian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Азербайджан Азербайджан_ССР Азербайджан_ССР GPE 0.993860783126 Azerbaijan_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Казах Казах_ССР Казах_ССР GPE 0.993860783126 Kazakh_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Узбек Узбек_ССР Узбек_ССР GPE 0.993860783126 Uzbek_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Таджик Таджик_ССР Таджик_ССР GPE 0.993860783126 Tajik_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Китай Китай Китай GPE 0.999999167165 China B-LOC
+. None O
+
+Бускельёсыз None O
+луо None O
+Эстон Эстон_ССР Эстон_ССР GPE 0.976565726582 Estonian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+, None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+, None O
+Белорус Белорус_ССР Белорус_ССР GPE 0.99765178415 Byelorussian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Литва Литва_ССР Литва_ССР GPE 0.715637677827 Lithuanian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Гринвич Гринвич_дыр Гринвич_дыр GPE 0.929833654748 Greenwich_Mean_Time B-LOC
+дыр None I-LOC
++2 None O
+... None O
++12 None O
+
+Бускельёсыз None O
+луо None O
+Ӟуч Ӟуч_СФСР Ӟуч_СФСР GPE 0.997479920747 Russian_Soviet_Federative_Socialist_Republic B-LOC
+СФСР None I-LOC
+, None O
+Польша Польша Польша GPE 0.999995090538 Poland B-LOC
+, None O
+Белорус Белорус_ССР Белорус_ССР GPE 0.99765178415 Byelorussian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+но None O
+Латви Латви_ССР Латви_ССР GPE 0.715637677827 Latvian_Soviet_Socialist_Republic B-LOC
+ССР None I-LOC
+. None O
+
+Литва Литва Литва GPE 0.999996763656 Lithuania B-LOC
+, None O
+Белоруссия Белоруссия Белоруссия GPE 0.999995602846 Belarus B-LOC
+, None O
+Польша Польша Польша GPE 0.999995090538 Poland B-LOC
+
+Вордскиз None O
+Ува Ува_ёрос Ува_ёросысь GPE 0.99999999929 Uvinsky_District B-LOC
+ёросысь None I-LOC
+Пекшур None O
+гуртын None O
+. None O
+
+Киргизия Киргизия Киргизия GPE 0.999997339724 Kyrgyzstan B-LOC
+, None O
+Китай Китай Китай GPE 0.999999167165 China B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+, None O
+Таджикистан Таджикистан Таджикистан GPE 0.999995608863 Tajikistan B-LOC
+, None O
+Узбекистан Узбекистан Узбекистан GPE 0.999995771675 Uzbekistan B-LOC
+, None O
+Казахстан Казахстан Казахстан GPE 0.999996070922 Kazakhstan B-LOC
+
+Таджикистан Таджикистан Таджикистан GPE 0.999995608863 Tajikistan B-LOC
+, None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Казахстан Казахстан Казахстан GPE 0.999996070922 Kazakhstan B-LOC
+, None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Киргизия Киргизия Киргизия GPE 0.999997339724 Kyrgyzstan B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+, None O
+Туркмения Туркмения Туркмения GPE 0.999995610128 Turkmenistan B-LOC
+, None O
+Украина Украина Украина GPE 0.999986206506 Ukraine B-LOC
+, None O
+Узбекистан Узбекистан Узбекистан GPE 0.999995771675 Uzbekistan B-LOC
+, None O
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+
+Ог None O
+1774—1775-тӥ None O
+аръёсы None O
+талэсь None O
+азьло None O
+аслаз None O
+войскоеныз None O
+ортчиз None O
+Алнаш Алнаш_ёрос Алнаш GPE 0.99999999929 Alnashsky_District B-LOC
+музъем None O
+вылтӥ None O
+. None O
+
+Вордӥськиз None O
+1953-тӥ None O
+арын None O
+Ува Ува_ёрос Ува_ёросысь GPE 0.99999999929 Uvinsky_District B-LOC
+ёросысь None I-LOC
+Вамья None O
+гуртын None O
+. None O
+
+Узбекистан Узбекистан Узбекистан GPE 0.999995771675 Uzbekistan B-LOC
+, None O
+Киргизия Киргизия Киргизия GPE 0.999997339724 Kyrgyzstan B-LOC
+, None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Казахстан Казахстан Казахстан GPE 0.999996070922 Kazakhstan B-LOC
+, None O
+Туркмения Туркмения Туркмения GPE 0.999995610128 Turkmenistan B-LOC
+, None O
+Таджикистан Таджикистан Таджикистан GPE 0.999995608863 Tajikistan B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+
+Украина Украина Украина GPE 0.999986206506 Ukraine B-LOC
+, None O
+Узбекистан Узбекистан Узбекистан GPE 0.999995771675 Uzbekistan B-LOC
+, None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+, None O
+Румыния Румыния Румыния GPE 0.999990867634 Romania B-LOC
+, None O
+Болгария Болгария Болгария GPE 0.999996293515 Bulgaria B-LOC
+
+Туркмения Туркмения Туркмения GPE 0.999995610128 Turkmenistan B-LOC
+, None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Афганистан Афганистан Афганистан GPE 0.999992515338 Afghanistan B-LOC
+, None O
+Ирак Ирак Ирак GPE 0.999990857863 Iraq B-LOC
+, None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+, None O
+Россия Россия Россия GPE 0.999995518192 Russia B-LOC
+
+Азербайджан Азербайджан Азербайджан GPE 0.999999999851 Azerbaijan B-LOC
+, None O
+Иран Иран Иран GPE 0.999989905078 Iran B-LOC
+, None O
+Грузия Грузия Грузия GPE 0.999994552331 Georgia_(country) B-LOC
+, None O
+Украина Украина Украина GPE 0.999986206506 Ukraine B-LOC
+, None O
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+, None O
+Ирак Ирак Ирак GPE 0.999990857863 Iraq B-LOC
+, None O
+Турция Турция Турция GPE 0.922399934174 Turkey B-LOC
+
+перенаправление None O
+Калипсо Калипсо_(будос) Калипсо_(будос) GPE 0.679699169051 Calypso_bulbosa B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+Калипсо Калипсо_(будос) Калипсо_(будос) GPE 0.679699169051 Calypso_bulbosa B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+Егитъёслэн Егитъёслэн_революционной_коммунистической_союззы Егитъёслэн_революционной_коммунистической_союззы ORG 0.999904449098 Revolutionary_Communist_Youth_League_(Bolshevik) B-ORG
+революционной None I-ORG
+коммунистической None I-ORG
+союззы None I-ORG
+
+** None O
+Araucaria Araucaria_hunsteinii Araucaria_hunsteinii GPE 0.679699169051 Araucaria_hunsteinii B-LOC
+hunsteinii None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_bernieri Araucaria_bernieri GPE 0.679699169051 Araucaria_bernieri B-LOC
+bernieri None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_biramulata Araucaria_biramulata GPE 0.679699169051 Araucaria_biramulata B-LOC
+biramulata None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_columnaris Araucaria_columnaris GPE 0.679699169051 Araucaria_columnaris B-LOC
+columnaris None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_humboldtensis Araucaria_humboldtensis GPE 0.679699169051 Araucaria_humboldtensis B-LOC
+humboldtensis None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_laubenfelsii Araucaria_laubenfelsii GPE 0.679699169051 Araucaria_laubenfelsii B-LOC
+laubenfelsii None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_luxurians Araucaria_luxurians GPE 0.679699169051 Araucaria_luxurians B-LOC
+luxurians None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_montana Araucaria_montana GPE 0.679699169051 Araucaria_montana B-LOC
+montana None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_muelleri Araucaria_muelleri GPE 0.679699169051 Araucaria_muelleri B-LOC
+muelleri None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_nemorosa Araucaria_nemorosa GPE 0.679699169051 Araucaria_nemorosa B-LOC
+nemorosa None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_rulei Araucaria_rulei GPE 0.679699169051 Araucaria_rulei B-LOC
+rulei None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_schmidii Araucaria_schmidii GPE 0.679699169051 Araucaria_schmidii B-LOC
+schmidii None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_scopulorum Araucaria_scopulorum GPE 0.679699169051 Araucaria_scopulorum B-LOC
+scopulorum None I-LOC
+'' None O
+. None O
+
+** None O
+Araucaria Araucaria_subulata Araucaria_subulata GPE 0.679699169051 Araucaria_subulata B-LOC
+subulata None I-LOC
+'' None O
+. None O
+
+Путин Путин,_Владимир_Владимирович Путин,_Владимир_Владимирович PER 0.999999998268 Vladimir_Putin B-PER
+, None I-PER
+Владимир None I-PER
+Владимирович None I-PER
+
+перенаправление None O
+Кола Кола_(будос) Кола_(будос) GPE 0.679699169051 Cola_acuminata B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+перенаправление None O
+Мексикаысь Мексикаысь_тӧдьы_пужым Мексикаысь_тӧдьы_пужым GPE 0.679699169051 Pinus_ayacahuite B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Вьетнамысь Вьетнамысь_тӧдьы_пужым Вьетнамысь_тӧдьы_пужым GPE 0.679699169051 Pinus_dalatensis B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Хайнаньысь Хайнаньысь_тӧдьы_пужым Хайнаньысь_тӧдьы_пужым GPE 0.679699169051 Pinus_fenzeliana B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Тайваньысь Тайваньысь_тӧдьы_пужым Тайваньысь_тӧдьы_пужым GPE 0.679699169051 Pinus_morrisonicola B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+Шунды Шунды_пуксён_пал_тӧдьы_пужым Шунды_пуксён_пал_тӧдьы_пужым GPE 0.679699169051 Western_white_pine B-LOC
+пуксён None I-LOC
+пал None I-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Япониысь Япониысь_тӧдьы_пужым Япониысь_тӧдьы_пужым GPE 0.679699169051 Pinus_parviflora B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Чиуауаысь Чиуауаысь_тӧдьы_пужым Чиуауаысь_тӧдьы_пужым ORG 0.734924935788 Pinus_strobiformis B-ORG
+тӧдьы None I-ORG
+пужым None I-ORG
+
+Шунды Шунды_ӝужан_пал_тӧдьы_пужым Шунды_ӝужан_пал_тӧдьы_пужым GPE 0.679699169051 Pinus_strobus B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Гуандунысь Гуандунысь_тӧдьы_пужым Гуандунысь_тӧдьы_пужым GPE 0.679699169051 Pinus_wangii B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Шунды Шунды_ӝужан_пал_тӧдьы_пужым Шунды_ӝужан_пал_тӧдьы_пужым GPE 0.679699169051 Pinus_strobus B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Шунды Шунды_пуксён_пал_тӧдьы_пужым Шунды_пуксён_пал_тӧдьы_пужым GPE 0.679699169051 Western_white_pine B-LOC
+пуксён None I-LOC
+пал None I-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Япониысь Япониысь_горд_пужым Япониысь_горд_пужым GPE 0.679699169051 Pinus_densiflora B-LOC
+горд None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Европаысь Европаысь_сьӧд_пужым Европаысь_сьӧд_пужым GPE 0.679699169051 Pinus_nigra B-LOC
+сьӧд None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Ньыль Ньыль_лысо_пужым Ньыль_лысо_пужым GPE 0.679699169051 Pinus_quadrifolia B-LOC
+лысо None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Америкаысь Америкаысь_горд_пужым Америкаысь_горд_пужым GPE 0.679699169051 Pinus_resinosa B-LOC
+горд None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Китайысь Китайысь_горд_пужым Китайысь_горд_пужым GPE 0.679699169051 Pinus_tabuliformis B-LOC
+горд None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Тайваньысь Тайваньысь_горд_пужым Тайваньысь_горд_пужым GPE 0.679699169051 Pinus_taiwanensis B-LOC
+горд None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Пресл Пресл,_Карл_Борживой Пресл,_Карл_Борживой PER 0.998999813093 Carl_Borivoj_Presl B-PER
+, None I-PER
+Карл None I-PER
+Борживой None I-PER
+
+перенаправление None O
+Пресл Пресл,_Карл_Борживой Пресл,_Карл_Борживой PER 0.998999813093 Carl_Borivoj_Presl B-PER
+, None I-PER
+Карл None I-PER
+Борживой None I-PER
+
+перенаправление None O
+Пресл Пресл,_Ян_Сватоплук Пресл,_Ян_Сватоплук PER 0.999272864011 Jan_Svatopluk_Presl B-PER
+, None I-PER
+Ян None I-PER
+Сватоплук None I-PER
+
+перенаправление None O
+Пресл Пресл,_Ян_Сватоплук Пресл,_Ян_Сватоплук PER 0.999272864011 Jan_Svatopluk_Presl B-PER
+, None I-PER
+Ян None I-PER
+Сватоплук None I-PER
+
+перенаправление None O
+Зарезь Зарезь_дурысь_пужым Зарезь_дурысь_пужым GPE 0.679699169051 Pinus_pinaster B-LOC
+дурысь None I-LOC
+пужым None I-LOC
+
+Вань None O
+гумыр-даурзэ None O
+со None O
+Прагаын Прага Прагаын GPE 1.0 Prague B-LOC
+ортчытӥз None O
+. None O
+
+перенаправление None O
+Шунды Шунды_пуксён_пал_пужым Шунды_пуксён_пал_пужым GPE 0.679699169051 Pinus_occidentalis B-LOC
+пуксён None I-LOC
+пал None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Мексикаысь Мексикаысь_тӧдьы_пужым Мексикаысь_тӧдьы_пужым GPE 0.679699169051 Pinus_ayacahuite B-LOC
+тӧдьы None I-LOC
+пужым None I-LOC
+
+перенаправление None O
+Выль Выль_Вич_кыз Выль_Вич_кыз GPE 0.679699169051 Picea_neoveitchii B-LOC
+Вич None I-LOC
+кыз None I-LOC
+
+перенаправление None O
+Зарезь Зарезь_дурысь_сусыпу Зарезь_дурысь_сусыпу GPE 0.679699169051 Juniperus_maritima B-LOC
+дурысь None I-LOC
+сусыпу None I-LOC
+
+перенаправление None O
+Горд Горд_емышо_сусыпу Горд_емышо_сусыпу GPE 0.679699169051 Juniperus_phoenicea B-LOC
+емышо None I-LOC
+сусыпу None I-LOC
+
+перенаправление None O
+Шунды Шунды_ӝужан_пал_Африкаысь_сусыпу Шунды_ӝужан_пал_Африкаысь_сусыпу GPE 0.679699169051 Juniperus_procera B-LOC
+ӝужан None I-LOC
+пал None I-LOC
+Африкаысь None I-LOC
+сусыпу None I-LOC
+
+перенаправление None O
+Бадӟым Бадӟым_сяськаё_магнолия Бадӟым_сяськаё_магнолия GPE 0.679699169051 Magnolia_grandiflora B-LOC
+сяськаё None I-LOC
+магнолия None I-LOC
+
+перенаправление None O
+Америкалэн Америкалэн_Огазеяськем_Штатъёсыз Америкалэн_Огазеяськем_Штатъёсыз GPE 0.99999348198 United_States B-LOC
+Огазеяськем None I-LOC
+Штатъёсыз None I-LOC
+
+перенаправление None O
+Тӧдьы Тӧдьы_кӧмо_ньылпу Тӧдьы_кӧмо_ньылпу GPE 0.679699169051 Abies_nephrolepis B-LOC
+кӧмо None I-LOC
+ньылпу None I-LOC
+
+Juniperus Juniperus_angosturana Juniperus_angosturana GPE 0.679699169051 Juniperus_angosturana B-LOC
+angosturana None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_coahuilensis Juniperus_coahuilensis GPE 0.679699169051 Juniperus_coahuilensis B-LOC
+coahuilensis None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_comitana Juniperus_comitana GPE 0.679699169051 Juniperus_comitana B-LOC
+comitana None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_convallium Juniperus_convallium GPE 0.679699169051 Juniperus_convallium B-LOC
+convallium None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_flaccida Juniperus_flaccida GPE 0.679699169051 Juniperus_flaccida B-LOC
+flaccida None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_gamboana Juniperus_gamboana GPE 0.679699169051 Juniperus_gamboana B-LOC
+gamboana None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_gracilior Juniperus_gracilior GPE 0.679699169051 Juniperus_gracilior B-LOC
+gracilior None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_pingii Juniperus_pingii GPE 0.679699169051 Juniperus_pingii B-LOC
+pingii None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_saltuaria Juniperus_saltuaria GPE 0.679699169051 Juniperus_saltuaria B-LOC
+saltuaria None I-LOC
+'' None O
+— None O
+
+Juniperus Juniperus_saxicola Juniperus_saxicola GPE 0.679699169051 Juniperus_saxicola B-LOC
+saxicola None I-LOC
+'' None O
+— None O
+
+перенаправление None O
+Тригонидиум Тригонидиум_(будос) Тригонидиум_(будос) GPE 0.679699169051 Trigonidium B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+** None O
+'' None O
+Abies Abies_beshanzuensis Abies_beshanzuensis GPE 0.679699169051 Abies_beshanzuensis B-LOC
+beshanzuensis None I-LOC
+'' None O
+— None O
+
+** None O
+'' None O
+Abies Abies_ziyuanensis Abies_ziyuanensis GPE 0.679699169051 Abies_ziyuanensis B-LOC
+ziyuanensis None I-LOC
+'' None O
+— None O
+
+** None O
+'' None O
+Abies Abies_fanjingshanensis Abies_fanjingshanensis GPE 0.679699169051 Abies_fanjingshanensis B-LOC
+fanjingshanensis None I-LOC
+'' None O
+— None O
+
+** None O
+'' None O
+Abies Abies_yuanbaoshanensis Abies_yuanbaoshanensis GPE 0.679699169051 Abies_yuanbaoshanensis B-LOC
+yuanbaoshanensis None I-LOC
+'' None O
+— None O
+
+** None O
+'' None O
+Abies Abies_squamata Abies_squamata GPE 0.679699169051 Abies_squamata B-LOC
+squamata None I-LOC
+'' None O
+— None O
+`` None O
+чешуйчатая None O
+'' None O
+
+перенаправление None O
+Ванда Ванда_(будос) Ванда_(будос) GPE 0.679699169051 Vanda B-LOC
+( None I-LOC
+будос None I-LOC
+) None I-LOC
+
+**** None O
+Magnolia Magnolia_×_alba Magnolia_×_alba GPE 0.679699169051 Magnolia_×_alba B-LOC
+× None I-LOC
+alba None I-LOC
+'' None O
+
+Блинов Блинов,_Пётр_Александрович Блинов,_Пётр_Александрович PER 0.999624969479 Pyotr_Blinov B-PER
+, None I-PER
+Пётр None I-PER
+Александрович None I-PER
+
+' None O
+'' None O
+Пороз None O
+гурт None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+Шаркан Шаркан_ёрос Шаркан_ёросысь GPE 0.99999999929 Sharkansky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+перенаправление None O
+Бадь Бадь_куаро_магнолия Бадь_куаро_магнолия GPE 0.679699169051 Magnolia_salicifolia B-LOC
+куаро None I-LOC
+магнолия None I-LOC
+
+перенаправление None O
+Кизили Кизили_сяськаё_магнолия Кизили_сяськаё_магнолия GPE 0.679699169051 Magnolia_stellata B-LOC
+сяськаё None I-LOC
+магнолия None I-LOC
+
+перенаправление None O
+Зарезь Зарезь_дурысь_лулпу Зарезь_дурысь_лулпу GPE 0.679699169051 Alnus_maritima B-LOC
+дурысь None I-LOC
+лулпу None I-LOC
+
+Горький Горький_чугун_сюрес Горький_чугун_сюрес ORG 0.998665506692 Gorky_Railway B-ORG
+чугун None I-ORG
+сюрес None I-ORG
+
+Бызе None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Бызе None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Бызе None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+20 None O
+иськем None O
+. None O
+
+Бызе None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+20 None O
+иськем None O
+. None O
+
+Берлон None O
+шур None O
+бызе None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+но None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+107 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+52 None O
+иськем None O
+. None O
+
+Солэн None O
+йылыз None O
+Можга Можга_ёрос Можга_ёросын GPE 0.99999999929 Mozhginsky_District B-LOC
+ёросын None I-LOC
+интыяськемын None O
+. None O
+
+Бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+26 None O
+иськем None O
+. None O
+
+Горький Горький_чугун_сюрес Горький_чугун_сюреслэн ORG 0.998665506692 Gorky_Railway B-ORG
+чугун None I-ORG
+сюреслэн None I-ORG
+станциез None O
+Кузон Кузон Кузон GPE 0.999997312841 Kazan B-LOC
+— None O
+Свердловск Екатеринбург Свердловск GPE 0.999999999952 Yekaterinburg B-LOC
+линиын None O
+. None O
+
+Интыяськемын None O
+Ватка Ватка Ватка GPE 0.999972375357 Vyatka_River B-LOC
+шурлэн None O
+бурпал None O
+ярдураз None O
+. None O
+
+** None O
+Alnus Alnus_acuminata Alnus_acuminata GPE 0.679699169051 Alnus_acuminata B-LOC
+acuminata None I-LOC
+'' None O
+— None O
+
+** None O
+Alnus Alnus_rhombifolia Alnus_rhombifolia GPE 0.679699169051 Alnus_rhombifolia B-LOC
+rhombifolia None I-LOC
+'' None O
+— None O
+
+** None O
+Alnus Alnus_serrulata Alnus_serrulata GPE 0.679699169051 Alnus_serrulata B-LOC
+serrulata None I-LOC
+'' None O
+— None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+60 None O
+иськем None O
+. None O
+
+Солэн None O
+йылыз None O
+интыяськемын None O
+Ува Ува_ёрос Ува_ёросын GPE 0.99999999929 Uvinsky_District B-LOC
+ёросын None I-LOC
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+, None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+лымшорысен None O
+уйпаллань None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+21 None O
+иськем None O
+. None O
+
+Бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+51 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Можга Можга_ёрос Можга_ёрослэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Бызе None O
+Можга Можга_ёрос Можга_ёрослэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Бызе None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Можга Можга_ёрос Можга_ёрослэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Солэн None O
+йылыз None O
+интыяськемын None O
+Красногорск Красногорск_ёрос Красногорск_ёросын GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёросын None I-LOC
+Клабуки None O
+гурт None O
+дорын None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+, None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+28 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Кизнер Кизнер_ёрос Кизнер_ёрослэн GPE 0.99999999929 Kiznersky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Можга Можга_ёрос Можга_ёрослэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Калмез Калмез_шур Калмез_шуре GPE 0.999918223934 Kilmez_River B-LOC
+шуре None I-LOC
+Кузьдалаез None O
+— None O
+169 None O
+иськем None O
+. None O
+
+Бызе None O
+Кизнер Кизнер_ёрос Кизнер_ёрослэн GPE 0.99999999929 Kiznersky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Солэн None O
+йылыз None O
+интыяськемын None O
+Ува Ува_ёрос Ува_ёросын GPE 0.99999999929 Uvinsky_District B-LOC
+ёросын None I-LOC
+Петропавлово None O
+черкогурт None O
+дорын None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Можга Можга_ёрос Можга_ёрослэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Солэн None O
+йылыз None O
+интыяськемын None O
+Ува Ува_ёрос Ува_ёросын GPE 0.99999999929 Uvinsky_District B-LOC
+ёросын None I-LOC
+Подмой None O
+станция None O
+матын None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+. None O
+
+Шур None O
+бызе None O
+Сюмси Сюмси_ёрос Сюмси_ёрослэн GPE 0.99999999929 Syumsinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Шур None O
+бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+перенаправление None O
+Сомерхолдер Сомерхолдер,_Йен Сомерхолдер,_Йен PER 0.999999108844 Ian_Somerhalder B-PER
+, None I-PER
+Йен None I-PER
+
+перенаправление None O
+Добрев Добрев,_Нина Добрев,_Нина PER 0.999999898819 Nina_Dobrev B-PER
+, None I-PER
+Нина None I-PER
+
+' None O
+'' None O
+Зармедло None O
+гурт None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+Дэбес Дэбес_ёрос Дэбес_ёросысь GPE 0.99999999929 Debyossky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+12 None O
+иськем None O
+. None O
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Сива Сива Сива GPE 0.999999999736 Siva_River B-LOC
+шуре None O
+. None O
+
+перенаправление None O
+Кулакова Кулакова,_Галина_Алексеевна Кулакова,_Галина_Алексеевна PER 0.999997953138 Galina_Kulakova B-PER
+, None I-PER
+Галина None I-PER
+Алексеевна None I-PER
+
+перенаправление None O
+Уэсли Уэсли,_Пол Уэсли,_Пол PER 0.999999918959 Paul_Wesley B-PER
+, None I-PER
+Пол None I-PER
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+13 None O
+иськем None O
+. None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+12 None O
+иськем None O
+. None O
+
+перенаправление None O
+Гюго Гюго,_Виктор Гюго,_Виктор PER 0.99999919812 Victor_Hugo B-PER
+, None I-PER
+Виктор None I-PER
+
+перенаправление None O
+Гюго Гюго,_Виктор Гюго,_Виктор PER 0.99999919812 Victor_Hugo B-PER
+, None I-PER
+Виктор None I-PER
+
+перенаправление None O
+Гюго Гюго,_Виктор Гюго,_Виктор PER 0.99999919812 Victor_Hugo B-PER
+, None I-PER
+Виктор None I-PER
+
+перенаправление None O
+Вылегжанин Вылегжанин,_Максим_Михайлович Вылегжанин,_Максим_Михайлович PER 0.999996737779 Maxim_Vylegzhanin B-PER
+, None I-PER
+Максим None I-PER
+Михайлович None I-PER
+
+перенаправление None O
+Максимов Максимов,_Максим_Геннадьевич Максимов,_Максим_Геннадьевич PER 0.999996737779 Maxim_Maksimov B-PER
+, None I-PER
+Максим None I-PER
+Геннадьевич None I-PER
+
+перенаправление None O
+Черезов Черезов,_Иван_Юрьевич Черезов,_Иван_Юрьевич PER 0.999997953138 Ivan_Tcherezov B-PER
+, None I-PER
+Иван None I-PER
+Юрьевич None I-PER
+
+перенаправление None O
+Малышко Малышко,_Дмитрий_Владимирович Малышко,_Дмитрий_Владимирович PER 0.999943004829 Dmitry_Malyshko B-PER
+, None I-PER
+Дмитрий None I-PER
+Владимирович None I-PER
+
+перенаправление None O
+Черезов Черезов,_Иван_Юрьевич Черезов,_Иван_Юрьевич PER 0.999997953138 Ivan_Tcherezov B-PER
+, None I-PER
+Иван None I-PER
+Юрьевич None I-PER
+
+Вордскиз None O
+6 None O
+куарусёнэ None O
+Ижкарын Иж Ижкарын GPE 0.999999579292 Izhevsk B-LOC
+. None O
+
+Солэн None O
+йылыз None O
+Пермь Пермь_шаер Пермь_шаерын GPE 0.999999994158 Perm_Krai B-LOC
+шаерын None I-LOC
+Ягутки None O
+гурт None O
+дорын None O
+интыяськемын None O
+. None O
+
+Кечгурт None O
+дорысен None O
+райцентырозь None O
+25 None O
+км None O
+; None O
+матысь None O
+карозь None O
+— None O
+Воткаозь Вотка Воткаозь GPE 0.999999996851 Votkinsk B-LOC
+— None O
+40км None O
+, None O
+но None O
+бадӟым None O
+сюресозь None O
+15 None O
+км None O
+. None O
+
+Эстон Эстония Эстон_шаере GPE 0.999997941033 Estonia B-LOC
+шаере None I-LOC
+картофка None O
+вуэмлэсь None O
+азьло None O
+отын None O
+сяртчылэсь None O
+но None O
+калягалэсь None O
+тросгес None O
+пӧраськылӥзы None O
+. None O
+
+2011-тӥ None O
+арысен None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетысь ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетысь None I-ORG
+«Ватка» None O
+нимо None O
+театральной None O
+студиен None O
+кивалтэ None O
+. None O
+
+Интыяськемын None O
+Крым Крым Крым GPE 0.911779013608 Crimea B-LOC
+мукожын None O
+, None O
+кунлэн None O
+лымшор None O
+палаз None O
+. None O
+
+Ярысен None O
+Ижозь Иж Ижозь GPE 0.999999579292 Izhevsk B-LOC
+— None O
+225 None O
+иськем None O
+, None O
+со None O
+пыр None O
+ортче None O
+Киров Киров Киров GPE 0.997303668278 Kirov,_Kirov_Oblast B-LOC
+чугун None O
+сюрес None O
+. None O
+
+Ярысен None O
+Глаз Глаз Глаз GPE 0.999998686431 Glazov B-LOC
+карозь None O
+ӝутэмын None O
+асфальт None O
+сюрес None O
+. None O
+
+Можга Можга Можга GPE 1.0 Mozhga B-LOC
+карысь None O
+фельдшер None O
+школаез None O
+йылпумъяса None O
+, None O
+1951-тӥ None O
+арысен None O
+Бобъя-Учаысь None O
+медпунктэн None O
+кивалтӥз None O
+. None O
+
+1952-тӥ None O
+арын None O
+сое None O
+ӧтё None O
+ужаны None O
+Советской Удмурт_дунне_(газет) Советской_Удмуртия ORG 1.0 Udmurt_dunne B-ORG
+Удмуртия None I-ORG
+газетэ None O
+. None O
+
+Матысь None O
+чугун None O
+сюрес None O
+станциозь None O
+- None O
+Кезозь Кез Кезозь GPE 0.918781505593 Kez B-LOC
+- None O
+32 None O
+иськем None O
+. None O
+
+Сюрес None O
+кыстӥськиз None O
+Дэбесысен None O
+Кунгурозь Кунгур Кунгурозь ORG 0.862717356619 Hymn B-ORG
+. None O
+
+Муско Муско Муско GPE 0.999999999998 Moscow B-LOC
+сярысь None O
+гожтыса None O
+кельтэмын None O
+1147-тӥ None O
+арын None O
+. None O
+
+1906-тӥ None O
+арын None O
+чугун None O
+сюрес None O
+Вяткаез None O
+Петербурген Санкт-Петербург Петербурген GPE 0.999999999992 Saint_Petersburg B-LOC
+герӟаны None O
+кутске None O
+. None O
+
+1992-тӥ None O
+арын None O
+поттын None O
+кутскемын None O
+«Сайга» Сайга «Сайга» GPE 0.679699169051 Saiga_antelope B-LOC
+карабин None O
+, None O
+бӧрысь None O
+«Сайга None O
+5,6» None O
+но None O
+«Сайга None O
+5,6С» None O
+, None O
+«Сайга-410» None O
+но None O
+«Сайга-20» None O
+пыӵалъёс None O
+. None O
+
+Пӧлысьтызы None O
+огез None O
+Удмуртилэн Удмуртия Удмуртилэн GPE 0.999999994295 Udmurtia B-LOC
+историяз None O
+бадӟым None O
+пытьы None O
+кельтӥз None O
+. None O
+
+Ӟеч None O
+суреда None O
+автор None O
+Емельян Пугачёв,_Емельян_Иванович Емельян_Пугачёвлэсь PER 0.994295226107 Yemelyan_Pugachev B-PER
+Пугачёвлэсь None I-PER
+образзэ None O
+. None O
+
+Мугорыз None O
+утиське None O
+Мускоысь Муско Мускоысь GPE 0.999999999998 Moscow B-LOC
+Кремль None O
+азьын None O
+сылӥсь None O
+мавзолейын None O
+. None O
+
+Удмурт Удмурт_дунне_(газет) Удмурт_дунне_(газет) ORG 1.0 Udmurt_dunne B-ORG
+дунне None I-ORG
+( None I-ORG
+газет None I-ORG
+) None I-ORG
+
+1907-тӥ-1911-тӥ None O
+аръёсы None O
+тодон-валан None O
+люказ None O
+Кузонысь Кузон Кузонысь GPE 0.999997312841 Kazan B-LOC
+дышетӥсьёсты None O
+дасянъя None O
+семинариын None O
+. None O
+
+Йылпумьяз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетэз ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетэз None I-ORG
+. None O
+
+Балезиноысен None O
+Ижозь Иж Ижозь GPE 0.999999579292 Izhevsk B-LOC
+— None O
+150 None O
+километр None O
+, None O
+Глазозь Глаз Глазозь GPE 0.999998686431 Glazov B-LOC
+— None O
+30 None O
+километр None O
+. None O
+
+1985–1994-тӥ None O
+аръёсы None O
+– None O
+Удмурт Удмурт_АССР Удмурт_АССР-ысь GPE 0.993912733126 Udmurt_Autonomous_Soviet_Socialist_Republic B-LOC
+АССР-ысь None I-LOC
+вузкаронъя None O
+министрлэн None O
+воштӥсез None O
+. None O
+
+1939-тӥ None O
+арын None O
+24-тӥ None O
+январе None O
+Кизнерез None O
+, None O
+Киров Киров_улос Киров_улослэсь GPE 0.999999994208 Kirov_Oblast B-LOC
+улослэсь None I-LOC
+люкыса None O
+, None O
+сётӥзы None O
+УАССР-е None O
+. None O
+
+Йылпумъяз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетысь ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетысь None I-ORG
+филология None O
+факультетэз None O
+. None O
+
+1931-тӥ None O
+арысен None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+ужа None O
+участковой None O
+педиатр None O
+, None O
+нылпи None O
+консультацилэн None O
+заведующиез None O
+, None O
+нылпи None O
+садысь None O
+но None O
+Нылпи None O
+юртысь None O
+эмъясь None O
+луыса None O
+. None O
+
+1921-тӥ None O
+арын None O
+Пермьысь Пермь Пермьысь GPE 0.761937149282 Perm B-LOC
+госпитальной None O
+хирургия None O
+кафедралэн None O
+кивалтӥсез None O
+луыса None O
+тырше None O
+. None O
+
+Ижкарысь Иж Ижкарысь GPE 0.999999579292 Izhevsk B-LOC
+металлургической None O
+завод None O
+– None O
+кунысьтымы None O
+корт None O
+поттон None O
+промышленность None O
+удысысь None O
+огез None O
+валтӥсь None O
+центр None O
+луэ None O
+. None O
+
+Эграысен None O
+Ижозь Иж Ижозь GPE 0.999999579292 Izhevsk B-LOC
+92 None O
+иськем None O
+. None O
+
+18-тӥ None O
+даурлэн None O
+шораз None O
+та None O
+пала None O
+вуо None O
+Россилэн Россия Россилэн GPE 0.999995518192 Russia B-LOC
+шор None O
+улосъёсысьтыз None O
+крестьянъёс None O
+. None O
+
+перенаправление None O
+Ленин Ленин,_Владимир_Ильич Ленин,_Владимир_Ильич PER 0.999999995534 Vladimir_Lenin B-PER
+, None I-PER
+Владимир None I-PER
+Ильич None I-PER
+
+Улонысь None O
+кошкиз None O
+8-тӥ None O
+июле None O
+1978-тӥ None O
+арын None O
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+. None O
+
+Солэн None O
+йылыз None O
+интыяськемын None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёросысь GPE 0.99999999929 Seltinsky_District B-LOC
+ёросысь None I-LOC
+Аксёновцы None O
+черкогуртын None O
+. None O
+
+Бызе None O
+Кизнер Кизнер_ёрос Кизнер_ёрослэн GPE 0.99999999929 Kiznersky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Бызе None O
+Кизнер Кизнер_ёрос Кизнер_ёрослэн GPE 0.99999999929 Kiznersky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вавож Вавож_ёрос Вавож_ёрослэн GPE 0.99999999929 Vavozhsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+24 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Сьӧлта Сьӧлта_ёрос Сьӧлта_ёрослэн GPE 0.99999999929 Seltinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Ува Ува_ёрос Ува_ёрослэн GPE 0.99999999929 Uvinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+' None O
+'' None O
+Ключи None O
+'' None O
+' None O
+— None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+шур None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+, None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+127 None O
+иськем None O
+. None O
+
+Шур None O
+дурын None O
+Эгра Эгра_(черкогурт) Эгра GPE 0.996523712063 Igra B-LOC
+черкогурт None O
+интыяськемын None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+, None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+уйпалысен None O
+лымшорлань None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+24 None O
+иськем None O
+. None O
+
+Озьы None O
+19-тӥ None O
+даурлэн None O
+50-тӥ None O
+аръёсаз None O
+асьме None O
+дорысь None O
+пыӵалъёс None O
+тодмо None O
+луизы None O
+Екатеринбургын Екатеринбург Екатеринбургын GPE 0.999999999952 Yekaterinburg B-LOC
+, None O
+Парижын Париж Парижын GPE 1.0 Paris B-LOC
+. None O
+
+Бызе None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+перенаправление None O
+Есенин Есенин,_Сергей_Александрович Есенин,_Сергей_Александрович PER 0.999999666754 Sergei_Yesenin B-PER
+, None I-PER
+Сергей None I-PER
+Александрович None I-PER
+
+перенаправление None O
+Кулакова Кулакова,_Галина_Алексеевна Кулакова,_Галина_Алексеевна PER 0.999997953138 Galina_Kulakova B-PER
+, None I-PER
+Галина None I-PER
+Алексеевна None I-PER
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+10 None O
+иськем None O
+. None O
+
+перенаправление None O
+Добрев Добрев,_Нина Добрев,_Нина PER 0.999999898819 Nina_Dobrev B-PER
+, None I-PER
+Нина None I-PER
+
+' None O
+'' None O
+Кен None O
+'' None O
+' None O
+— None O
+Пермь Пермь_шаер Пермь_шаерысь GPE 0.999999994158 Perm_Krai B-LOC
+шаерысь None I-LOC
+шур None O
+. None O
+
+1980–1985-тӥ None O
+аръёсы None O
+дышетскиз None O
+Удмурт Удмурт_кун_университет Удмурт_кун_университетын ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университетын None I-ORG
+историяя None O
+факультетын None O
+. None O
+
+1992-тӥ None O
+арын None O
+история None O
+тодосья None O
+кандидат None O
+степень None O
+сёто None O
+( None O
+РАН-ысь None O
+Этнографияя None O
+но None O
+физической None O
+антропологияя None O
+институт None O
+, None O
+Муско Муско Муско GPE 0.999999999998 Moscow B-LOC
+) None O
+. None O
+
+1992-ти None O
+арын None O
+история None O
+тодосья None O
+доктор None O
+степень None O
+сёто None O
+( None O
+РАН-ысь None O
+Этнографияя None O
+но None O
+физической None O
+антропологияя None O
+институт None O
+, None O
+Муско Муско Муско GPE 0.999999999998 Moscow B-LOC
+) None O
+.. None O
+
+Бызе None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+' None O
+'' None O
+«Звездочка» None O
+пунылы None O
+синпелет None O
+'' None O
+' None O
+— None O
+Ижысь Иж Ижысь GPE 0.999999579292 Izhevsk B-LOC
+синпелет None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Дэбес Дэбес_ёрос Дэбес_ёросын GPE 0.99999999929 Debyossky_District B-LOC
+ёросын None I-LOC
+. None O
+
+Шур None O
+бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Дэбес Дэбес_ёрос Дэбес_ёрослэн GPE 0.99999999929 Debyossky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+34 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+чугун None O
+сюрес None O
+дуртӥ None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+70 None O
+иськем None O
+. None O
+
+Бызе None O
+Эгра Эгра_ёрос Эгра_ёрослэн GPE 0.99999999929 Igrinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+16 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+но None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+45 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+но None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+34 None O
+иськем None O
+. None O
+
+1955-тӥ None O
+арын None O
+ужаны None O
+кутске None O
+метрополитен Санкт-Петербургысь_метрополитен метрополитен ORG 0.919059589196 Saint_Petersburg_Metro B-ORG
+. None O
+
+Мусколэсь Муско Мусколэсь GPE 0.999999999998 Moscow B-LOC
+664 None O
+иськемлы None O
+палэнын None O
+интыськемын None O
+. None O
+
+Карын None O
+1955-тӥ None O
+арысен None O
+метрополитен Санкт-Петербургысь_метрополитен метрополитен ORG 0.919059589196 Saint_Petersburg_Metro B-ORG
+ужа None O
+. None O
+
+Городлэн None O
+исторической None O
+люкетэз None O
+утиське None O
+ЮНЕСКО ЮНЕСКО ЮНЕСКО ORG 0.999798132496 UNESCO B-ORG
+огазеяськонэн None O
+. None O
+
+Санкт-Петербугын None O
+улӥзы None O
+Пётр Чайковский,_Пётр_Ильич Пётр_Ильич_Чайковский PER 0.999992796162 Pyotr_Ilyich_Tchaikovsky B-PER
+Ильич None I-PER
+Чайковский None I-PER
+, None O
+Александр Пушкин,_Александр_Сергеевич Александр_Пушкин PER 0.999970618988 Alexander_Pushkin B-PER
+Пушкин None I-PER
+, None O
+
+Абасыянык Абасыянык,_Саит_Фаик Абасыянык,_Саит_Фаик PER 0.999941657732 Sait_Faik_Abasıyanık B-PER
+, None I-PER
+Саит None I-PER
+Фаик None I-PER
+
+Кысакюрек Кысакюрек,_Неджип_Фазыл Кысакюрек,_Неджип_Фазыл PER 0.999979165741 Necip_Fazıl_Kısakürek B-PER
+, None I-PER
+Неджип None I-PER
+Фазыл None I-PER
+
+Гюнтекин Гюнтекин,_Решат_Нури Гюнтекин,_Решат_Нури PER 0.999999288869 Reşat_Nuri_Güntekin B-PER
+, None I-PER
+Решат None I-PER
+Нури None I-PER
+
+Гюнтекин Гюнтекин,_Решат_Нури Гюнтекин,_Решат_Нури PER 0.999999288869 Reşat_Nuri_Güntekin B-PER
+, None I-PER
+Решат None I-PER
+Нури None I-PER
+
+Памук Памук,_Орхан Памук,_Орхан PER 0.999989830544 Orhan_Pamuk B-PER
+, None I-PER
+Орхан None I-PER
+
+Кемаль Кемаль,_Намык Кемаль,_Намык PER 0.999699011926 Namık_Kemal B-PER
+, None I-PER
+Намык None I-PER
+
+Бызе None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Юкаменск Юкаменск_ёрос Юкаменск_ёрослэн GPE 0.99999999929 Yukamensky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Юкаменск Юкаменск_ёрос Юкаменск_ёрослэн GPE 0.99999999929 Yukamensky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+20 None O
+иськем None O
+. None O
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+, None O
+Юкаменск Юкаменск_ёрос Юкаменск_ёрослэн GPE 0.99999999929 Yukamensky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Солэн None O
+йылыз None O
+Юкаменск Юкаменск_ёрос Юкаменск_ёросын GPE 0.99999999929 Yukamensky_District B-LOC
+ёросын None I-LOC
+интыяськемын None O
+. None O
+
+' None O
+'' None O
+Ю None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+Удмуртиысь Удмуртия Удмуртиысь GPE 0.999999994295 Udmurtia B-LOC
+шур None O
+. None O
+
+Жириновский Жириновский,_Владимир_Вольфович Жириновский,_Владимир_Вольфович PER 0.999999895414 Vladimir_Zhirinovsky B-PER
+, None I-PER
+Владимир None I-PER
+Вольфович None I-PER
+
+Шур None O
+бызе None O
+Красногорск Красногорск_ёрос Красногорск_ёрослэн GPE 0.99999999929 Krasnogorsky_District,_Udmurt_Republic B-LOC
+ёрослэн None I-LOC
+, None O
+Юкаменск Юкаменск_ёрос Юкаменск_ёрослэн GPE 0.99999999929 Yukamensky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+перенаправление None O
+Черезов Черезов,_Иван_Юрьевич Черезов,_Иван_Юрьевич PER 0.999997953138 Ivan_Tcherezov B-PER
+, None I-PER
+Иван None I-PER
+Юрьевич None I-PER
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Нырысетӥ None O
+биатлонын None O
+вормонэз None O
+луиз None O
+спринт None O
+видъя None O
+1995 None O
+арын None O
+Удмуртиын Удмуртия Удмуртиын GPE 0.999999994295 Udmurtia B-LOC
+. None O
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+бызе None O
+Кез Кез_ёрос Кез_ёрослэн GPE 0.99999999929 Kezsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Кузьдалаез None O
+— None O
+59 None O
+иськем None O
+. None O
+
+перенаправление None O
+Бернар Бернар,_Сара Бернар,_Сара PER 0.999999998011 Sarah_Bernhardt B-PER
+, None I-PER
+Сара None I-PER
+
+Шур None O
+бызе None O
+Балезино Балезино_ёрос Балезино_ёрослэн GPE 0.99999999929 Balezinsky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Глаз Глаз_ёрос Глаз_ёрослэн GPE 0.99999999929 Glazovsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Чупчие Чупчи Чупчие GPE 0.999918223934 Cheptsa_River B-LOC
+Глаз Глаз Глаз GPE 0.999998686431 Glazov B-LOC
+карлы None O
+матын None O
+. None O
+
+Бызе None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Яр Яр_ёрос Яр_ёрослэн GPE 0.99999999929 Yarsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+лымшорлань None O
+но None O
+усе None O
+Чупчи Чупчи Чупчи GPE 0.999918223934 Cheptsa_River B-LOC
+шуре None O
+. None O
+
+' None O
+'' None O
+PMMP None O
+'' None O
+' None O
+— None O
+суоми Финляндия суоми GPE 0.999994932457 Finland B-LOC
+поп-огин None O
+( None O
+поп-группа None O
+) None O
+. None O
+
+Сара None O
+Бернар None O
+вордскиз None O
+22-тӥ None O
+коньывуонэ None O
+1844 None O
+арын None O
+Парижын Париж Парижын GPE 1.0 Paris B-LOC
+. None O
+
+Францие Франция Францие GPE 0.999997637559 France B-LOC
+вуэмзылэсь None O
+азьло None O
+Юдифь None O
+ужа None O
+вал None O
+модистка None O
+луыса None O
+. None O
+
+Удмурт Удмурт_дунне_(газет) Удмурт_дунне_(газет) ORG 1.0 Udmurt_dunne B-ORG
+дунне None I-ORG
+( None I-ORG
+газет None I-ORG
+) None I-ORG
+
+Автор None O
+туж None O
+быгатыса None O
+возьматэ None O
+пытсамъёслэсь None O
+мылкыдзэс None O
+, None O
+куке None O
+соос None O
+туж None O
+ӟеч None O
+валазы None O
+ини None O
+, None O
+Германия Германия Германия GPE 0.999994565441 Germany B-LOC
+уз None O
+вормы None O
+шуыса None O
+. None O
+
+' None O
+'' None O
+Тулыс None O
+академия None O
+'' None O
+' None O
+- None O
+Германиысь Германия Германиысь GPE 0.999994565441 Germany B-LOC
+Роберт Роберт_Бош_нимо_фонд Роберт_Бош_нимо_фондлэн ORG 0.510652592416 Robert_Bosch_Stiftung B-ORG
+Бош None I-ORG
+нимо None I-ORG
+фондлэн None I-ORG
+одӥгез None O
+бадӟым None O
+проектэз None O
+, None O
+со None O
+радъяське None O
+котькуд None O
+тулыс None O
+пӧртэм None O
+каръёсын None O
+. None O
+
+перенаправление None O
+Ханты-Манси Ханты-Манси_автономной_округ_—_Югра Ханты-Манси_автономной_округ_—_Югра GPE 0.999999999813 Khanty-Mansi_Autonomous_Okrug B-LOC
+автономной None I-LOC
+округ None I-LOC
+— None I-LOC
+Югра None I-LOC
+
+перенаправление None O
+Ханты-Манси Ханты-Манси_автономной_округ_—_Югра Ханты-Манси_автономной_округ_—_Югра GPE 0.999999999813 Khanty-Mansi_Autonomous_Okrug B-LOC
+автономной None I-LOC
+округ None I-LOC
+— None I-LOC
+Югра None I-LOC
+
+перенаправление None O
+Марий Марий_Эл_Республика Марий_Эл_Республика GPE 0.999999994158 Mari_El B-LOC
+Эл None I-LOC
+Республика None I-LOC
+
+Озьы None O
+ик None O
+«Инвожоос» None O
+вал None O
+Эстониын Эстония Эстониын GPE 0.999997941033 Estonia B-LOC
+, None O
+2006-тӥ None O
+арын None O
+— None O
+Латвиын Латвия Латвиын GPE 0.999998814392 Latvia B-LOC
+, None O
+нош None O
+азьлогес None O
+ни None O
+Финляндие Финляндия Финляндие GPE 0.999994932457 Finland B-LOC
+но None O
+вуылӥзы None O
+. None O
+
+перенаправление None O
+Гитлер Гитлер,_Адольф Гитлер,_Адольф PER 1.0 Adolf_Hitler B-PER
+, None I-PER
+Адольф None I-PER
+
+перенаправление None O
+Байрон Байрон,_Джоржд_Гордон Байрон,_Джоржд_Гордон PER 0.999997498303 Lord_Byron B-PER
+, None I-PER
+Джоржд None I-PER
+Гордон None I-PER
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Сива Сива Сива GPE 0.999999999736 Siva_River B-LOC
+шуре None O
+. None O
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+12 None O
+иськем None O
+. None O
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+уйпалысен None O
+лымшорлань None O
+но None O
+усе None O
+Сива Сива Сива GPE 0.999999999736 Siva_River B-LOC
+шуре None O
+. None O
+
+Шур None O
+бызе None O
+Якшур-Бӧдья Якшур-Бӧдья_ёрос Якшур-Бӧдья_ёрослэн GPE 0.99999999929 Yakshur-Bodyinsky_District B-LOC
+ёрослэн None I-LOC
+, None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Шур None O
+дурын None O
+Вотка Вотка Вотка_кар GPE 0.999999996851 Votkinsk B-LOC
+кар None I-LOC
+сылэ None O
+. None O
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+28 None O
+иськем None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+шундыпуксён None O
+но None O
+уйшор-шундыпуксён None O
+палан None O
+Можга Можга_ёрос Можга_ёросэн GPE 0.99999999929 Mozhginsky_District B-LOC
+ёросэн None I-LOC
+
+шундыӝужан None O
+но None O
+шундыпуксён None O
+палан None O
+Татарстанэн Татарстан Татарстанэн GPE 0.999999994742 Tatarstan B-LOC
+
+1970-тӥ None O
+аръёсын None O
+Визерс None O
+Barbeque None O
+King None O
+пушкын None O
+ужаны None O
+Америкае Америкалэн_Огазеяськем_Штатъёсыз Америкае GPE 0.99999348198 United_States B-LOC
+кошкиз None O
+. None O
+
+Али None O
+Удмуртиын Удмуртия Удмуртиын GPE 0.999999994295 Udmurtia B-LOC
+ваньмыз None O
+5 None O
+ресторанъёс None O
+ужало None O
+. None O
+
+Ижын Иж Ижын GPE 0.999999579292 Izhevsk B-LOC
+— None O
+3 None O
+ресторан None O
+; None O
+
+Глазын Глаз Глазын GPE 0.999998686431 Glazov B-LOC
+— None O
+1 None O
+ресторан None O
+; None O
+
+Воткаын Вотка Воткаын GPE 0.999999996851 Votkinsk B-LOC
+— None O
+1 None O
+ресторан None O
+. None O
+
+Ватикан Ватикан Ватикан GPE 0.999998919962 Vatican_City B-LOC
+сяна None O
+ваньзы None O
+пыро None O
+Огазеяськем Огазеяськем_Нациослэн_Организацизы Огазеяськем_Нациослэн_Организацизылэн ORG 0.995440632241 United_Nations B-ORG
+Нациослэн None I-ORG
+Организацизылэн None I-ORG
+кун-ёзчиосыз None O
+пӧлы None O
+. None O
+
+Административной None O
+центрез None O
+— None O
+Кудымкар Кудымкар Кудымкар GPE 0.999998686431 Kudymkar B-LOC
+. None O
+
+Советской Советской_Социалистической_Республикаослэн_Союззы Советской_Социалистической_Республикаослэн_Союззы GPE 0.999955184672 Soviet_Union B-LOC
+Социалистической None I-LOC
+Республикаослэн None I-LOC
+Союззы None I-LOC
+
+' None O
+'' None O
+Трояны None O
+'' None O
+' None O
+— None O
+Польшада Польша Польшада GPE 0.999995090538 Poland B-LOC
+гурт None O
+. None O
+
+Lahn None O
+) None O
+— None O
+Германиысь Германия Германиысь GPE 0.999994565441 Germany B-LOC
+шур None O
+. None O
+
+перенаправление None O
+Соловьёв Соловьёв,_Александр_Васильевич Соловьёв,_Александр_Васильевич PER 0.999898077049 Alexander_Soloviev_(historian) B-PER
+, None I-PER
+Александр None I-PER
+Васильевич None I-PER
+
+Кутсконзэ None O
+басьтэ None O
+100 None O
+иськемын None O
+Туймы Туймы Туймы GPE 0.999972375357 Toyma_River B-LOC
+шурлэсь None O
+. None O
+
+Заслуженный None O
+строитель None O
+Российской Россия Российской_Федерации GPE 0.999995518192 Russia B-LOC
+Федерации None I-LOC
+; None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+65 None O
+иськем None O
+. None O
+
+Саар Саар_(музъем) Саар GPE 1.0 Saarland B-LOC
+( None O
+) None O
+— None O
+Германиысь Германия Германиысь GPE 0.999994565441 Germany B-LOC
+федераци None O
+музъем None O
+, None O
+нимыз None O
+Саар Саар_(шур) Саар GPE 0.999990113548 Saar_(river) B-LOC
+шур None O
+бордысь None O
+кылдэмын None O
+. None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+49 None O
+иськем None O
+. None O
+
+Бызе None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемэтӥз None O
+но None O
+усе None O
+Сива Сива Сива GPE 0.999999999736 Siva_River B-LOC
+шуре None O
+. None O
+
+Саар Саар_(шур) Саар GPE 0.999990113548 Saar_(river) B-LOC
+( None O
+, None O
+) None O
+— None O
+Францитӥ Франция Францитӥ GPE 0.999997637559 France B-LOC
+но None O
+Германитӥ Германия Германитӥ GPE 0.999994565441 Germany B-LOC
+бызись None O
+шур None O
+, None O
+усе None O
+Мозеле Мозель Мозеле GPE 0.77547857296 Moselle B-LOC
+Трир Трир Трир GPE 0.99999999995 Trier B-LOC
+карлэсь None O
+вылӥынгес None O
+. None O
+
+Солэн None O
+нимызъя None O
+нимамын None O
+Саар Саар_(музъем) Саар GPE 1.0 Saarland B-LOC
+музъем None O
+. None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+20 None O
+иськем None O
+. None O
+
+Бызе None O
+Шаркан Шаркан_ёрос Шаркан_ёрослэн GPE 0.99999999929 Sharkansky_District B-LOC
+ёрослэн None I-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёрослэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёрослэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Туймы Туймы Туймы GPE 0.999972375357 Toyma_River B-LOC
+шурлэн None O
+бур None O
+палаз None O
+усе None O
+. None O
+
+Солэн None O
+йылыз None O
+Шаркан Шаркан_ёрос Шаркан_ёросын GPE 0.99999999929 Sharkansky_District B-LOC
+ёросын None I-LOC
+Лып-Селяны None O
+гуртын None O
+интыяськемын None O
+. None O
+
+Шур None O
+бызе None O
+Шаркан Шаркан_ёрос Шаркан GPE 0.99999999929 Sharkansky_District B-LOC
+но None O
+Вотка Вотка_ёрос Вотка_ёросъёслэн GPE 0.99999999929 Votkinsky_District B-LOC
+ёросъёслэн None I-LOC
+музъемъёстӥзы None O
+. None O
+
+Усе None O
+Сивае Сива Сивае GPE 0.999999999736 Siva_River B-LOC
+Кузьдалаез None O
+— None O
+36 None O
+иськем None O
+. None O
+
+Удмуртиын Удмуртия Удмуртиын GPE 0.999999994295 Udmurtia B-LOC
+но None O
+Татарстанын Татарстан Татарстанын GPE 0.999999994742 Tatarstan B-LOC
+'' None O
+
+Интыяське None O
+37 None O
+иськемын None O
+Уфалэсь Уфа Уфалэсь GPE 0.759450721593 Ufa B-LOC
+. None O
+
+Нош None O
+Брест Брест_крепость Брест_крепость GPE 0.981162602814 Brest_Fortress B-LOC
+крепость None I-LOC
+пусъемын None O
+Крепость-Герой None O
+званиен None O
+. None O
+
+Бӧрысь None O
+, None O
+1961-тӥ None O
+арын None O
+21-тӥ None O
+июне None O
+, None O
+отчы None O
+йылтӥзы None O
+Киевез Киев Киевез GPE 1.0 Kiev B-LOC
+. None O
+
+' None O
+'' None O
+Одесса Одесса Одесса GPE 1.0 Odessa B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Севастополь Севастополь Севастополь GPE 1.0 Sevastopol B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Киев Киев Киев GPE 1.0 Kiev B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Брест Брест_крепость Брест_крепость GPE 0.981162602814 Brest_Fortress B-LOC
+крепость None I-LOC
+'' None O
+' None O
+( None O
+Крепость-Герой None O
+) None O
+
+' None O
+'' None O
+Керчь Керчь Керчь GPE 1.0 Kerch B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Новороссийск Новороссийск Новороссийск GPE 0.999994943593 Novorossiysk B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Минск Минск Минск GPE 1.0 Minsk B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Смоленск Смоленск Смоленск GPE 0.999973881707 Smolensk B-LOC
+'' None O
+' None O
+
+' None O
+'' None O
+Европа None O
+парламент None O
+'' None O
+' None O
+— None O
+Европа Европа_союз Европа_союзлы ORG 0.982432585052 European_Union B-ORG
+союзлы None I-ORG
+кат None O
+сётӥсь None O
+ёзэс None O
+. None O
+
+Табере None O
+со None O
+интыын None O
+Чишмы Чишмы Чишмы GPE 0.679699169051 Chishmy_(urban-type_settlement),_Chishminsky_District,_Republic_of_Bashkortostan B-LOC
+посёлок None O
+интыяське None O
+. None O
+
+Огазеяськем Огазеяськем_Нациослэн_Организацизы Огазеяськем_Нациослэн_Организацизы ORG 0.995440632241 United_Nations B-ORG
+Нациослэн None I-ORG
+Организацизы None I-ORG
+
+Огазеяськем Огазеяськем_Нациослэн_Организацизы Огазеяськем_Нациослэн_Организацизы ORG 0.995440632241 United_Nations B-ORG
+Нациослэн None I-ORG
+Организацизы None I-ORG
+
+Одӥгезъя None O
+малпанъя None O
+, None O
+со None O
+чингизид None O
+вылэм None O
+— None O
+Чингисханлэн Чингисхан Чингисханлэн PER 0.999992326981 Genghis_Khan B-PER
+выжы-кумыез None O
+. None O
+
+Огазеяськем Огазеяськем_Нациослэн_Организацизы Огазеяськем_Нациослэн_Организацизы ORG 0.995440632241 United_Nations B-ORG
+Нациослэн None I-ORG
+Организацизы None I-ORG
+
+Уйпал-шундыӝужан None O
+палан None O
+Татарстанэн Татарстан Татарстанэн GPE 0.999999994742 Tatarstan B-LOC
+. None O
+
+Книга None O
+пӧртэм None O
+мылкыдъёс None O
+кельтӥз None O
+, None O
+нош None O
+кино None O
+соя None O
+пуктыны None O
+Германиын Германия Германиын GPE 0.999994565441 Germany B-LOC
+ӧз None O
+лэзе None O
+. None O
+
+Пусйыны None O
+кулэ None O
+, None O
+Германилэн None O
+союзникъёсыз None O
+со None O
+вакытэ None O
+вал None O
+Болгария Болгария Болгария GPE 0.999996293515 Bulgaria B-LOC
+, None O
+Венгрия Венгрия Венгрия GPE 0.999993411483 Hungary B-LOC
+, None O
+Италия Италия Италия GPE 0.999994576668 Italy B-LOC
+, None O
+Румыния Румыния Румыния GPE 0.999990867634 Romania B-LOC
+, None O
+Словакия Словакия Словакия GPE 0.999993309884 Slovakia B-LOC
+, None O
+Финляндия Финляндия Финляндия GPE 0.999994932457 Finland B-LOC
+, None O
+Хорватия Хорватия Хорватия GPE 0.999996710561 Croatia B-LOC
+. None O
+
+Чайковский Чайковский,_Пётр_Ильич Чайковский,_Пётр_Ильич PER 0.999992796162 Pyotr_Ilyich_Tchaikovsky B-PER
+, None I-PER
+Пётр None I-PER
+Ильич None I-PER
+
+Шундылы Шунды Шундылы GPE 0.679699169051 Sun B-LOC
+матысь None O
+спутник None O
+луэ None O
+. None O
+
+Саар Саар_(шур) Саар GPE 0.999990113548 Saar_(river) B-LOC
+( None O
+, None O
+) None O
+— None O
+Францитӥ Франция Францитӥ GPE 0.999997637559 France B-LOC
+но None O
+Германитӥ Германия Германитӥ GPE 0.999994565441 Germany B-LOC
+бызись None O
+шур None O
+, None O
+усе None O
+Мозеле Мозель Мозеле GPE 0.77547857296 Moselle B-LOC
+. None O
+
+Огазеяськон None O
+кылдытэмын None O
+1945-тӥ None O
+арын None O
+16-тӥ None O
+шуркынмонэ None O
+, None O
+солэн None O
+штаб-квартираез None O
+интыяське None O
+Парижын Париж Парижын GPE 1.0 Paris B-LOC
+, None O
+Франциын Франция Франциын GPE 0.999997637559 France B-LOC
+. None O
+
+Rheinland-Pfalz None O
+) None O
+— None O
+Германиысь Германия Германиысь GPE 0.999994565441 Germany B-LOC
+федераци None O
+музъем None O
+. None O
+
+Шундыё None O
+нуналъёсызъя None O
+но None O
+бус None O
+усёнтэмъя None O
+Кабардинка None O
+тодэ None O
+вайытэ None O
+Крымлэсь Крым Крымлэсь GPE 0.911779013608 Crimea B-LOC
+лымшор None O
+ярдурзэ None O
+. None O
+
+' None O
+'' None O
+Мухавец Мухавец Мухавец GPE 0.999972375357 Mukhavets_River B-LOC
+'' None O
+' None O
+- None O
+Белоруссилэн Белоруссия Белоруссилэн GPE 0.999995602846 Belarus B-LOC
+Брест Брест Брест GPE 1.0 Brest,_Belarus B-LOC
+улосысьтыз None O
+шур None O
+, None O
+усе None O
+Шундыпуксён Шундыпуксён_Буг Шундыпуксён_Буге GPE 0.999999999736 Bug_River B-LOC
+Буге None I-LOC
+; None O
+
+Кутсконэз None O
+— None O
+Пружаны Пружаны Пружаны GPE 0.999999999996 Pruzhany B-LOC
+карын None O
+. None O
+
+Туннэ None O
+нуналлы None O
+со None O
+тужгес None O
+тодмо None O
+луэ None O
+крепостез Брест_крепость крепостез GPE 0.981162602814 Brest_Fortress B-LOC
+понна None O
+. None O
+
+Город None O
+интыяське None O
+25 None O
+иськемын None O
+Новороссийсклэсь Новороссийск Новороссийсклэсь GPE 0.999994943593 Novorossiysk B-LOC
+. None O
+
+** None O
+Владимир Короленко,_Владимир_Галактионович Владимир_Галактионович_Короленко PER 0.999989196588 Vladimir_Korolenko B-PER
+Галактионович None I-PER
+Короленко None I-PER
+гожъяськисьлэн None O
+музей-юртэз None O
+
+** None O
+Михаил Лермонтов,_Михаил_Юрьевич Михаил_Юрьевич_Лермонтовлы PER 0.999996075615 Mikhail_Lermontov B-PER
+Юрьевич None I-PER
+Лермонтовлы None I-PER
+синпелет None O
+, None O
+интыяське None O
+М.Ю.Лермонтов None O
+нимо None O
+бульваре None O
+пырон None O
+вӧзын None O
+
+Musel None O
+) None O
+— None O
+Францитӥ Франция Францитӥ GPE 0.999997637559 France B-LOC
+, None O
+Люксембургтӥ Люксембург Люксембургтӥ GPE 0.999999999992 Luxembourg B-LOC
+но None O
+Германитӥ Германия Германитӥ GPE 0.999994565441 Germany B-LOC
+бызись None O
+шур None O
+, None O
+усе None O
+Рейнэ Рейн Рейнэ GPE 1.0 Rhine B-LOC
+Кузьдалаез None O
+— None O
+544 None O
+иськем None O
+, None O
+бассейнэзлэн None O
+площадез None O
+- None O
+28 None O
+286 None O
+квадрат None O
+иськем None O
+. None O
+
+1906-тӥ-1914-тӥ None O
+аръёсы None O
+скульптор None O
+Италиын Италия Италиын GPE 0.999994576668 Italy B-LOC
+но None O
+Франциын Франция Франциын GPE 0.999997637559 France B-LOC
+улӥз None O
+. None O
+
+перенаправление None O
+Йылсо Йылсо_куаро_бадь Йылсо_куаро_бадь GPE 0.679699169051 Salix_acutifolia B-LOC
+куаро None I-LOC
+бадь None I-LOC
+
+Брейвик Брейвик,_Андерс_Беринг Брейвик,_Андерс_Беринг PER 0.999996265256 Anders_Behring_Breivik B-PER
+, None I-PER
+Андерс None I-PER
+Беринг None I-PER
+
+' None O
+'' None O
+Ялта None O
+'' None O
+' None O
+( None O
+, None O
+) None O
+— None O
+Крымлэн Крым Крымлэн GPE 0.911779013608 Crimea B-LOC
+лымшор None O
+палаз None O
+интыяськем None O
+город-курорт None O
+. None O
+
+Интыяськемын None O
+Симферополь Симферополь Симферополь GPE 1.0 Simferopol B-LOC
+шоркарлэсь None O
+93 None O
+километрлы None O
+палэнын None O
+. None O
+
+' None O
+'' None O
+«Набат None O
+памяти» None O
+'' None O
+' None O
+— None O
+Можга Можга Можга GPE 1.0 Mozhga B-LOC
+карысь None O
+калык None O
+музей None O
+. None O
+
+Интыяське None O
+Трир Трир Трир GPE 0.99999999995 Trier B-LOC
+карын None O
+, None O
+Мозель Мозель Мозель GPE 0.77547857296 Moselle B-LOC
+шур None O
+вамен None O
+. None O
+
+1986-тӥ None O
+арын None O
+пыртэмын None O
+ЮНЕСКО-лэн ЮНЕСКО ЮНЕСКО-лэн ORG 0.999798132496 UNESCO B-ORG
+списоказ None O
+. None O
+
+перенаправление None O
+Рим Рим_выж_(Трир) Рим_выж_(Трир) ORG 0.99999582321 Roman_Bridge_(Trier) B-ORG
+выж None I-ORG
+( None I-ORG
+Трир None I-ORG
+) None I-ORG
+
+' None O
+'' None O
+Intara None O
+'' None O
+' None O
+( None O
+провинцияос Руандаысь_провинцияос провинцияос) GPE 0.99970363116 Provinces_of_Rwanda B-LOC
+) None I-LOC
+
+Кигали Кигали Кигали GPE 1.0 Kigali B-LOC
+( None O
+Umujyi None O
+wa None O
+Kigali None O
+) None O
+
+Нырысь None O
+ик None O
+, None O
+со None O
+Порта Порта_Нигра Порта_Нигра ORG 0.999999992382 Porta_Nigra B-ORG
+Нигра None I-ORG
+( None O
+Porta None O
+Nigra None O
+) None O
+— None O
+«Сьӧд None O
+капкаос» None O
+. None O
+
+Городысь None O
+история None O
+синпелетъёс None O
+ЮНЕСКО-ен ЮНЕСКО ЮНЕСКО-ен ORG 0.999798132496 UNESCO B-ORG
+утисько None O
+. None O
+
+' None O
+'' None O
+Хинцерт None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+нацистъёслэн None O
+Германиысь Германия Германиысь GPE 0.999994565441 Germany B-LOC
+одӥгез None O
+концентрационной None O
+лагерьзы None O
+. None O
+
+Константин-базилика None O
+пыртэмын None O
+ЮНЕСКО-лэн ЮНЕСКО ЮНЕСКО-лэн ORG 0.999798132496 UNESCO B-ORG
+списоказ None O
+. None O
+
+Лидеяе None O
+усе None O
+Нарва Нарва_(шур) Нарва GPE 0.999999999911 Narva_River B-LOC
+шур None O
+. None O
+
+' None O
+'' None O
+Intara None O
+'' None O
+' None O
+( None O
+провинцияос Руандаысь_провинцияос провинцияос GPE 0.99970363116 Provinces_of_Rwanda B-LOC
+) None O
+
+Кигали Кигали Кигали GPE 1.0 Kigali B-LOC
+( None O
+Umujyi None O
+wa None O
+Kigali None O
+) None O
+
+Куке None O
+Ильшатлы None O
+тырмиз None O
+2 None O
+арес None O
+, None O
+солэн None O
+семъяез None O
+кошкиз None O
+улыны None O
+Оренбурге Оренбург Оренбурге GPE 0.760408414528 Orenburg B-LOC
+Нырысьсэ None O
+эктыны None O
+кутскиз None O
+4 None O
+аресысен None O
+. None O
+
+' None O
+'' None O
+Intara None O
+'' None O
+' None O
+( None O
+провинцияос Руандаысь_провинцияос провинцияос) GPE 0.99970363116 Provinces_of_Rwanda B-LOC
+) None I-LOC
+
+== None O
+Кигали Кигали Кигали GPE 1.0 Kigali B-LOC
+( None O
+Umujyi None O
+wa None O
+Kigali None O
+) None O
+== None O
+
+Парламент None O
+интыяське None O
+Таллинлэн Таллин Таллинлэн GPE 1.0 Tallinn B-LOC
+шораз None O
+, None O
+Тоомпеа None O
+замокын None O
+. None O
+
+' None O
+'' None O
+Шудонлэн None O
+музеез None O
+'' None O
+' None O
+( None O
+Tartu None O
+Mänguasjamuuseum None O
+) None O
+— None O
+Тартуысь Тарту Тартуысь GPE 1.0 Tartu B-LOC
+музей None O
+. None O
+
+' None O
+'' None O
+Сюо None O
+ныр None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+Грах Грах_ёрос Грах_ёросысь GPE 0.99999999929 Grakhovsky_District B-LOC
+ёросысь None I-LOC
+гурт None O
+. None O
+
+Усе None O
+Пскова Пскова Пскова GPE 0.999999999736 Pskova_River B-LOC
+шуре None O
+Торошино None O
+гурт None O
+дорын None O
+. None O
+
+' None O
+'' None O
+«Три None O
+товарища» None O
+'' None O
+' None O
+( None O
+) None O
+— None O
+Эрих Ремарк,_Эрих_Мария Эрих_Мария_Ремарклэн PER 0.999999269915 Erich_Maria_Remarque B-PER
+Мария None I-PER
+Ремарклэн None I-PER
+романэз None O
+, None O
+со None O
+бордын None O
+ужаны None O
+автор None O
+кутскиз None O
+1932-тӥ None O
+арын None O
+. None O
+
+1938 None O
+— None O
+«Three None O
+Comrades» None O
+( None O
+«Три None O
+товарища» None O
+) None O
+фильм None O
+, None O
+режиссёрез None O
+Френк None O
+Борзейга None O
+( None O
+США Америкалэн_Огазеяськем_Штатъёсыз США GPE 0.99999348198 United_States B-LOC
+) None O
+. None O
+
+Шурлэн None O
+кутсконаз None O
+интыяське None O
+Псков Псков Псков GPE 0.999999996945 Pskov B-LOC
+. None O
+
+Интыяське None O
+Великая Великая_(шур) Великая GPE 0.999999999911 Velikaya_River B-LOC
+но None O
+Пскова Пскова Пскова GPE 0.999999999736 Pskova_River B-LOC
+шуръёслэн None O
+огазе None O
+луонзы None O
+дорын None O
+. None O
+
+' None O
+'' None O
+Intara None O
+'' None O
+' None O
+( None O
+провинцияос Руандаысь_провинцияос провинцияос) GPE 0.99970363116 Provinces_of_Rwanda B-LOC
+) None I-LOC
+
+== None O
+Кигали Кигали Кигали GPE 1.0 Kigali B-LOC
+( None O
+Umujyi None O
+wa None O
+Kigali None O
+) None O
+== None O
+
+Кигали Кигали Кигали GPE 1.0 Kigali B-LOC
+( None O
+Umurenge None O
+wa None O
+Kigali None O
+) None O
+
+Ханты-Манси Ханты-Манси_автономной_округ_—_Югра Ханты-Манси_автономной_округ_—_Югра GPE 0.999999999813 Khanty-Mansi_Autonomous_Okrug B-LOC
+автономной None I-LOC
+округ None I-LOC
+— None I-LOC
+Югра None I-LOC
+
+Удмурт Удмурт_кун_университет Удмурт_кун_университет ORG 0.999792186683 Udmurt_State_University B-ORG
+кун None I-ORG
+университет None I-ORG
+
+перенаправление None O
+Шунды Шунды_пуксён_пал_Канадаысь_инуит_кыл Шунды_пуксён_пал_Канадаысь_инуит_кыл GPE 0.958094813401 Inuvialuktun B-LOC
+пуксён None I-LOC
+пал None I-LOC
+Канадаысь None I-LOC
+инуит None I-LOC
+кыл None I-LOC
+
+1984–86 None O
+аръёсы None O
+Ижысь Иж Ижысь GPE 0.999999579292 Izhevsk B-LOC
+41 None O
+номеро None O
+шор-ёзо None O
+школаын None O
+, None O
+1986 None O
+арысен None O
+— None O
+76 None O
+номеро None O
+шор-ёзо None O
+школаын None O
+дышетӥсь None O
+луыса None O
+ужа None O
+. None O
+
+*** None O
+Шунды Шунды_пуксён_пал_Канадаысь_инуит_кыл Шунды_пуксён_пал_Канадаысь_инуит_кыл GPE 0.958094813401 Inuvialuktun B-LOC
+пуксён None I-LOC
+пал None I-LOC
+Канадаысь None I-LOC
+инуит None I-LOC
+кыл None I-LOC
+( None O
+Inuvialuktun None O
+) None O
+
+** None O
+Шунды Шунды_пуксён_пал_Канадаысь_инуит_кыл Шунды_пуксён_пал_Канадаысь_инуит_кыл GPE 0.958094813401 Inuvialuktun B-LOC
+пуксён None I-LOC
+пал None I-LOC
+Канадаысь None I-LOC
+инуит None I-LOC
+кыл None I-LOC
+( None O
+Inuvialuktun None O
+) None O
+
+перенаправление None O
+Гурезькуспо Гурезькуспо_кыэсь_пужым Гурезькуспо_кыэсь_пужым GPE 0.679699169051 Pinus_longaeva B-LOC
+кыэсь None I-LOC
+пужым None I-LOC
+
+Шунды Шунды_пуксён_пал_Канадаысь_инуит_кыл Шунды_пуксён_пал_Канадаысь_инуит_кыл GPE 0.958094813401 Inuvialuktun B-LOC
+пуксён None I-LOC
+пал None I-LOC
+Канадаысь None I-LOC
+инуит None I-LOC
+кыл None I-LOC
+( None O
+Inuvialuktun None O
+) None O
+
+' None O
+'' None O
+Лонгтхань None O
+( None O
+аэропорт None O
+) None O
+' None O
+'' None O
+( None O
+''Sân None O
+bay None O
+quốc None O
+tế None O
+Long None O
+Thành None O
+'' None O
+) None O
+, None O
+Вьетнамысь Вьетнам Вьетнамысь GPE 0.999988951935 Vietnam B-LOC
+аэропорт None O
+, None O
+Хошимин Хошимин Хошимин GPE 1.0 Ho_Chi_Minh_City B-LOC
+карлэсь None O
+5 None O
+иськемын None O
+, None O
+музъемезлэн None O
+быдӟалаез None O
+– None O
+50 None O
+км² None O
+. None O
+
+Татын None O
+вордӥськиз None O
+Кузебай Кузебай_Герд Кузебай_Герд PER 0.997515128349 Kuzebay_Gerd B-PER
+Герд None I-PER
+. None O
+
+Киров Киров Киров GPE 0.997303668278 Kirov,_Kirov_Oblast B-LOC
+( None O
+филиалъёссэ None O
+лыдъятэк None O
+) None O
+
+Со None O
+интыяськемын None O
+Кияса Кияса_ёрос Кияса_ёрослэн GPE 0.99999999929 Kiyasovsky_District B-LOC
+ёрослэн None I-LOC
+лымшор None O
+палаз None O
+. None O
+
+Нимыз None O
+гуртлэн None O
+герӟаськемын None O
+Туймы Туймы Туймы GPE 0.999972375357 Toyma_River B-LOC
+шурлэн None O
+нимыныз None O
+, None O
+кудӥз None O
+бызе None O
+гурт None O
+пыртӥ None O
+но None O
+басьтэ None O
+кутсконзэ None O
+гуртлэсь None O
+ӧжыт None O
+гинэ None O
+вылӥын None O
+. None O
+
+Советской Советской_Союзысь_Коммунистической_партия Советской_Союзысь_Коммунистической_партия ORG 0.999889312751 Communist_Party_of_the_Soviet_Union B-ORG
+Союзысь None I-ORG
+Коммунистической None I-ORG
+партия None I-ORG
+
+Советской Советской_Социалистической_Республикаослэн_Союззы Советской_Социалистической_Республикаослэн_Союззы GPE 0.999955184672 Soviet_Union B-LOC
+Социалистической None I-LOC
+Республикаослэн None I-LOC
+Союззы None I-LOC
+
+Ленин Ленин,_Владимир_Ильич Ленин,_Владимир_Ильич PER 0.999999995534 Vladimir_Lenin B-PER
+, None I-PER
+Владимир None I-PER
+Ильич None I-PER
+
+1984—1987 None O
+— None O
+дышетске None O
+Можгаысь Можга Можгаысь GPE 1.0 Mozhga B-LOC
+ветеринарной None O
+техникумын None O
+, None O
+Можгинского None O
+педучилищеысь None O
+литературной None O
+кружоке None O
+ветлэ None O
+
+Командировкаосы None O
+сое None O
+лэзьяло None O
+Чечняе Чечня Чечняе GPE 1.0 Chechnya B-LOC
+, None O
+Таджикистанэ Таджикистан Таджикистанэ GPE 0.999995608863 Tajikistan B-LOC
+, None O
+
+Ӵапак None O
+война None O
+кутскемлэсь None O
+азьло None O
+, None O
+1939-тӥ None O
+арын None O
+, None O
+Удмурт Удмурт_кун_университет Удмурт_пединститутэ ORG 0.999792186683 Udmurt_State_University B-ORG
+пединститутэ None I-ORG
+пыре None O
+. None O
+
+' None O
+'' None O
+Агры Агры Агры GPE 0.999999612517 Ağrı B-LOC
+'' None O
+' None O
+( None O
+Ağrı None O
+merkez None O
+) None O
+
+' None O
+'' None O
+Адыяман Адыяман Адыяман GPE 1.0 Adıyaman B-LOC
+'' None O
+' None O
+( None O
+Adıyaman None O
+merkez None O
+) None O
+
+' None O
+'' None O
+Айдын Айдын Айдын GPE 0.999999998978 Aydın B-LOC
+'' None O
+' None O
+( None O
+Aydın None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Аксарай Аксарай Аксарай GPE 1.0 Aksaray B-LOC
+'' None O
+' None O
+( None O
+Aksaray None O
+merkez None O
+) None O
+
+' None O
+'' None O
+Амасья Амасья Амасья GPE 0.999999999968 Amasya B-LOC
+'' None O
+' None O
+( None O
+Amasya None O
+merkez None O
+) None O
+
+' None O
+'' None O
+Кечиэрен Кечиэрен Кечиэрен GPE 0.999999998969 Keçiören B-LOC
+'' None O
+' None O
+( None O
+Keçiören None O
+) None O
+
+' None O
+'' None O
+Ардахан Ардахан Ардахан GPE 0.999999998969 Ardahan B-LOC
+'' None O
+' None O
+( None O
+Ardahan None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Артвин Артвин Артвин GPE 0.999999998969 Artvin B-LOC
+'' None O
+' None O
+( None O
+Artvin None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Байбурт Байбурт Байбурт GPE 1.0 Bayburt B-LOC
+'' None O
+' None O
+( None O
+Bayburt None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Балыкесир Балыкесир Балыкесир GPE 0.999999998969 Balıkesir B-LOC
+'' None O
+' None O
+( None O
+Balıkesir None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Бартын Бартын Бартын GPE 1.0 Bartın B-LOC
+'' None O
+' None O
+( None O
+Bartın None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Биледжик Биледжик Биледжик GPE 0.999999612517 Bilecik B-LOC
+'' None O
+' None O
+( None O
+Bilecik None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Бингёль Бингёль Бингёль GPE 1.0 Bingöl B-LOC
+'' None O
+' None O
+( None O
+Bingöl None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Битлис Битлис Битлис GPE 1.0 Bitlis B-LOC
+'' None O
+' None O
+( None O
+Bitlis None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Болу Болу Болу GPE 0.999999998978 Bolu B-LOC
+'' None O
+' None O
+( None O
+Bolu None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Бурдур Бурдур Бурдур GPE 0.999999998969 Burdur B-LOC
+'' None O
+' None O
+( None O
+Burdur None O
+) None O
+
+' None O
+'' None O
+Гиресун Гиресун Гиресун GPE 1.0 Giresun B-LOC
+'' None O
+' None O
+( None O
+Giresun None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Гюмюшхане Гюмюшхане Гюмюшхане GPE 0.999999998969 Gümüşhane B-LOC
+'' None O
+' None O
+( None O
+Gümüşhane None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Денизли Денизли Денизли GPE 1.0 Denizli B-LOC
+'' None O
+' None O
+( None O
+Denizli None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Дюздже Дюздже Дюздже GPE 1.0 Düzce B-LOC
+'' None O
+' None O
+( None O
+Düzce None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Зонгулдак Зонгулдак Зонгулдак GPE 1.0 Zonguldak B-LOC
+'' None O
+' None O
+( None O
+Zonguldak None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Йозгат Йозгат Йозгат GPE 0.999999612517 Yozgat B-LOC
+'' None O
+' None O
+( None O
+Yozgat None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Карабюк Карабюк Карабюк GPE 1.0 Karabük B-LOC
+'' None O
+' None O
+( None O
+Karabük None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Караман Караман Караман GPE 1.0 Karaman B-LOC
+'' None O
+' None O
+( None O
+Karaman None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Карс Карс Карс GPE 0.999999612517 Kars B-LOC
+'' None O
+' None O
+( None O
+Kars None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Кастамону Кастамону Кастамону GPE 0.999999998973 Kastamonu B-LOC
+'' None O
+' None O
+( None O
+Kastamonu None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Кахраманмараш Кахраманмараш Кахраманмараш GPE 0.999999998969 Kahramanmaraş B-LOC
+'' None O
+' None O
+( None O
+Kahramanmaraş None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Килис Килис Килис GPE 0.999997014309 Kilis B-LOC
+'' None O
+' None O
+( None O
+Kilis None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Измит Измит Измит GPE 1.0 İzmit B-LOC
+'' None O
+' None O
+( None O
+İzmit None O
+) None O
+
+Гедиз Гедиз Гедиз GPE 0.999999999736 Gediz_River B-LOC
+( None O
+Gediz None O
+) None O
+
+' None O
+'' None O
+Кютахья Кютахья Кютахья GPE 0.999999612517 Kütahya B-LOC
+'' None O
+' None O
+( None O
+Kütahya None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Кыркларели Кыркларели Кыркларели GPE 0.999997014309 Kırklareli B-LOC
+'' None O
+' None O
+( None O
+Kırklareli None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Кыршехир Кыршехир Кыршехир GPE 0.999999998973 Kırşehir B-LOC
+'' None O
+' None O
+( None O
+Kırşehir None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Кырыккале Кырыккале Кырыккале GPE 1.0 Kırıkkale B-LOC
+'' None O
+' None O
+( None O
+Kırıkkale None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Малатья Малатья Малатья GPE 0.999999998969 Malatya B-LOC
+'' None O
+' None O
+( None O
+Malatya None O
+) None O
+
+' None O
+'' None O
+Маниса Маниса Маниса GPE 1.0 Manisa B-LOC
+'' None O
+' None O
+( None O
+Manisa None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Мардин Мардин Мардин GPE 1.0 Mardin B-LOC
+'' None O
+' None O
+( None O
+Mardin None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Мугла Мугла Мугла GPE 1.0 Muğla B-LOC
+'' None O
+' None O
+( None O
+Muğla None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Невшехир Невшехир Невшехир GPE 1.0 Nevşehir B-LOC
+'' None O
+' None O
+( None O
+Nevşehir None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Нигде Нигде Нигде GPE 0.999999612517 Niğde B-LOC
+'' None O
+' None O
+( None O
+Niğde None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Орду Орду Орду GPE 1.0 Ordu B-LOC
+'' None O
+' None O
+( None O
+Ordu None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Османие Османие Османие GPE 1.0 Osmaniye B-LOC
+'' None O
+' None O
+( None O
+Osmaniye None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Ризе Ризе Ризе GPE 1.0 Rize B-LOC
+'' None O
+' None O
+( None O
+Rize None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Сивас Сивас Сивас GPE 0.99358432233 Sivas B-LOC
+'' None O
+' None O
+( None O
+Sivas None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Сиирт Сиирт Сиирт GPE 1.0 Siirt B-LOC
+'' None O
+' None O
+( None O
+Siirt None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Синоп Синоп Синоп GPE 1.0 Sinop,_Turkey B-LOC
+'' None O
+' None O
+( None O
+Sinop None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Текирдаг Текирдаг Текирдаг GPE 1.0 Tekirdağ B-LOC
+'' None O
+' None O
+( None O
+Tekirdağ None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Токат Токат Токат GPE 1.0 Tokat B-LOC
+'' None O
+' None O
+( None O
+Tokat None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Трабзон Трабзон Трабзон GPE 1.0 Trabzon B-LOC
+'' None O
+' None O
+( None O
+Trabzon None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Тунджели Тунджели Тунджели GPE 1.0 Tunceli B-LOC
+'' None O
+' None O
+( None O
+Tunceli None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Ушак Ушак Ушак GPE 1.0 Uşak B-LOC
+'' None O
+' None O
+( None O
+Uşak None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Хаккяри Хаккяри Хаккяри GPE 0.999998415804 Hakkâri B-LOC
+'' None O
+' None O
+( None O
+Hakkâri None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Антакья Антакья Антакья GPE 1.0 Antakya B-LOC
+'' None O
+' None O
+( None O
+Antakya None O
+) None O
+
+' None O
+'' None O
+Чанаккале Чанаккале Чанаккале GPE 1.0 Çanakkale B-LOC
+'' None O
+' None O
+( None O
+Çanakkale None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Чанкыры Чанкыры Чанкыры GPE 1.0 Çankırı B-LOC
+'' None O
+' None O
+( None O
+Çankırı None O
+merkezi None O
+) None O
+
+Кызылырмак Кызылырмак Кызылырмак GPE 0.999999999736 Kızılırmak_River B-LOC
+( None O
+Kızılırmak None O
+) None O
+
+' None O
+'' None O
+Чорум Чорум Чорум GPE 1.0 Çorum B-LOC
+'' None O
+' None O
+( None O
+Çorum None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Шанлыурфа Шанлыурфа Шанлыурфа GPE 0.999999999999 Şanlıurfa B-LOC
+'' None O
+' None O
+( None O
+Şanlıurfa None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Шырнак Шырнак Шырнак GPE 0.999999999965 Şırnak B-LOC
+'' None O
+' None O
+( None O
+Şırnak None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Ыгдыр Ыгдыр Ыгдыр GPE 1.0 Iğdır B-LOC
+'' None O
+' None O
+( None O
+Iğdır None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Ыспарта Ыспарта Ыспарта GPE 0.999999998973 Isparta B-LOC
+'' None O
+' None O
+( None O
+Isparta None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Эдирне Эдирне Эдирне GPE 0.999999999931 Edirne B-LOC
+'' None O
+' None O
+( None O
+Edirne None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Элязыг Элязыг Элязыг GPE 0.999999612517 Elazığ B-LOC
+'' None O
+' None O
+( None O
+Elazığ None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Эрзинджан Эрзинджан Эрзинджан GPE 1.0 Erzincan B-LOC
+'' None O
+' None O
+( None O
+Erzincan None O
+merkezi None O
+) None O
+
+' None O
+'' None O
+Ялова Ялова Ялова GPE 0.99358432233 Yalova B-LOC
+'' None O
+' None O
+( None O
+Yalova None O
+merkezi None O
+) None O
+
