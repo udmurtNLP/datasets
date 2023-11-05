@@ -11,7 +11,8 @@
 ### Monolingual corpora
 
 - Udmurt news (udmddn.ru and oshmes.info, in total 36k sentences). [HuggingFace](https://huggingface.co/datasets/tartuNLP/smugri-data)
-- Wikipedia dump (more than 43k sentences). [Download](https://dumps.wikimedia.org/udmwiki/) 
+- Wikipedia dump (more than 43k sentences). [Download](https://dumps.wikimedia.org/udmwiki/)
+- MADLAD-400 (510.3k sentences) [HuggingFace](https://huggingface.co/datasets/allenai/MADLAD-400)
 
 ### NER
 
