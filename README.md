@@ -1,6 +1,6 @@
 # Datasets
 
-![image](https://i.ibb.co/PccTKNX/datasets.png)
+![image](https://github.com/udmurtNLP/docs/blob/main/imgs/datasets.png?raw=true)
 
 ## Text datasets
 
