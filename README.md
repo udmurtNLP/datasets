@@ -31,3 +31,7 @@
 ### NER
 
 - WikiANN (the transcription is problematic: Latin and Cyrillic are used inconsistently, Wikipedia Markup is parsed incorrectly, but if you want to use it, see `wikiann` directory)
+
+### Instruction
+
+- MURI-IT (2,751 rows) [HuggingFace](https://huggingface.co/datasets/akoksal/muri-it-language-split)
