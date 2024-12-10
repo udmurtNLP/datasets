@@ -18,6 +18,7 @@
 - MADLAD-400 (651k sentences, 9.5 million words) [HuggingFace](https://huggingface.co/datasets/udmurtNLP/madlad-400-udmurt) / [All languages](https://huggingface.co/datasets/allenai/MADLAD-400)
 - Glot500-c (121k sentences) [GitHub](https://github.com/cisnlp/Glot500)
 - Zerpal (1.4M sentences) [HuggingFace](https://huggingface.co/datasets/udmurtNLP/zerpal)
+- FineWeb2 (13.5 million words) [HuggingFace](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)
 
 ### Classification
 
