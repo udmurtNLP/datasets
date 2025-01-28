@@ -6,8 +6,9 @@
 
 ### Parallel corpora
 
+- Russian-Udmurt parallel corpora (100k sentences) [Hugging Face](https://huggingface.co/datasets/udmurtNLP/udmurt-russian-parallel-corpora)
 - Tatoeba (>3600 sentence pairs). [Hugging Face](https://huggingface.co/datasets/udmurtNLP/tatoeba-rus-udm-parallel-corpora) / [Source](https://tatoeba.org/ru/downloads)
-- Finugorbib (>30k sentence pairs). [Hugging Face](https://huggingface.co/datasets/udmurtNLP/udmurt-bible-parallel-corpora)
+- Finugorbib (>30k sentence pairs). [Hugging Face](https://huggingface.co/datasets/udmurtNLP/udmurt-bible-parallel-corpora) / [slone/finugorbib](https://huggingface.co/datasets/slone/finugorbib)
 - Soviet geography book (>2700 sentence pairs). [Hugging Face](https://huggingface.co/datasets/udmurtNLP/soviet-geography-book-rus-udm-parallel-corpora)
 - FLORES-250, translation benchmark. [Hugging Face](https://huggingface.co/datasets/udmurtNLP/flores-250-rus-udm) / [Other languages](https://huggingface.co/datasets/tartuNLP/smugri-flores-testset)
 
