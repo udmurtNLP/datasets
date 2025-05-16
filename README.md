@@ -38,3 +38,7 @@
 ### Instruction
 
 - MURI-IT (2,751 rows) [Hugging Face](https://huggingface.co/datasets/akoksal/muri-it-language-split)
+
+## Audio datasets
+
+- Volga Fairytales TTS Dataset (0.23 hours) [Hugging Face](https://huggingface.co/datasets/yasalma/fairytales)
