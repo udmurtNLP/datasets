@@ -35,6 +35,10 @@
 
 - WikiANN (the transcription is problematic: Latin and Cyrillic are used inconsistently, Wikipedia Markup is parsed incorrectly, but if you want to use it, see `wikiann` directory)
 
+### Question Answering
+
+- MultiWikiQA (5k rows) [Hugging Face](https://huggingface.co/datasets/alexandrainst/multi-wiki-qa)
+
 ### Instruction
 
 - MURI-IT (2,751 rows) [Hugging Face](https://huggingface.co/datasets/akoksal/muri-it-language-split)
