@@ -20,6 +20,7 @@
 - Glot500-c (121k sentences) [GitHub](https://github.com/cisnlp/Glot500)
 - Zerpal (1.4M sentences) [Hugging Face](https://huggingface.co/datasets/udmurtNLP/zerpal)
 - FineWeb2 (13.5 million words) [Hugging Face](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)
+- FinePDFs (however, the quality of Udmurt language texts is really bad) [Hugging Face](https://huggingface.co/datasets/HuggingFaceFW/finepdfs)
 
 ### Classification
 
