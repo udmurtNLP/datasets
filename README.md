@@ -21,6 +21,7 @@
 - Zerpal (1.4M sentences) [Hugging Face](https://huggingface.co/datasets/udmurtNLP/zerpal)
 - FineWeb2 (13.5 million words) [Hugging Face](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2)
 - FinePDFs (however, the quality of Udmurt language texts is really bad) [Hugging Face](https://huggingface.co/datasets/HuggingFaceFW/finepdfs)
+- FineWiki (> 5k texts) [Hugging Face](https://huggingface.co/datasets/HuggingFaceFW/finewiki)
 
 ### Classification
 
